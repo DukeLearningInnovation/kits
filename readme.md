@@ -167,7 +167,6 @@ But there will also be content item blocks for all IMS Content Item integrations
 ![](assets/12.png)
 
 
-
 ### Evolve the syllabus
 1. ingest .docx syllabus
 2. convert to web format
