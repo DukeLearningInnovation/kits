@@ -1,6 +1,8 @@
 # learn.duke.edu
+View at https://dukelearninginnovation.github.io/learn.duke/ 
 
 ## Table of Contents
+1. [Inspiration](#inspiration)
 1. [Scope](#scope)
 1. [Assumptions & hypothesis](#assumptions-&-hypothesis)
 1. [Components](#components)
@@ -10,6 +12,8 @@
 	1. [wizard](#wizard)
 	1. [content creation](#content-creation)
 	1. [cms](#cms)
+	1. [dlx](#designed-learning-experience)
+1. [Technical specification](#technical-specification)
 1. [Next steps](#next-steps)
 
 learn.duke.edu will provide the following to the Duke community.
@@ -28,6 +32,10 @@ learn.duke.edu will provide the following to the Duke community.
 	* Faculty: single place with tools together to easily provision for a course. Select pre-packaged groups of tools commonly used. Suggest new tools they like. 
 	* Admins: get data of which tools are used most, and suggestions of new tools by faculty/students that Duke can research adopting/licensing. 
 
+# Inspiration
+https://www.youtube.com/watch?v=OzrlFJNBFqY
+https://twitter.com/hibbittsdesign/status/879745020265234432
+/assets/educause-ngdle.pdf
 # Scope
 
 * The scope of learn.duke is on courses at this time
@@ -196,14 +204,69 @@ Content created on the platform is abstracted from the course specific metadata 
 * none entered at this time
 
 ## Designed learning experience
-
 Provide students with a singular designed learning experience that pulls in the data from all tools connected to a course and streamlines the presentation of what to do next into something like Coursera or edX
 
 ![](assets/modules-with-confidence.png)
+
+## Elements
+* group
+	* roster
+* gradebook
+* assessment
+	* rubrics
+	* outcomes
+	* assignments
+* lessons
+* learning pathways
+* experience progression
+* managed app store
+* managed integration store
+* media management
+	* lecture capture
+* file management
+	* eText
+	* restricted resources
+* web conferencing
+* discussions
+* communication
+* collaboration
+* ePortfolios
+* annotations
+
+* credentials
+	* badges
+* classroom response
+* calendar
+	* schedule
+* web hosting
+* 
+
+## Abilities
+* groupable
+* eventable
+* delegatable
+* batchable
+* AIable
+
 ### Tasks done at DLX
 * none entered at this time
+
 ### Questions on DLX
 * none entered at this time
+
+---
+
+# Technical specification
+
+* [LRNWebComponents](https://github.com/LRNWebComponents/ontology)
+* [tsugi](https://github.com/tsugiproject/tsugi)
+* [LRNWC HAX Editor](https://lrnwebcomponents.github.io/hax-body/components/hax-body/)
+* IMS Deep Linking
+* IMS LTI Advantage
+* IMS Caliper
+
+
+
 ---
 
 # Next steps
