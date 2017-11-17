@@ -151,7 +151,7 @@ But there will also be content item blocks for all IMS Content Item integrations
 2. convert to web format
 3. run course
 4. export .docx 
-
+![](assets/syllabus-export.png)
 
 ### Integrate with apps
 1. upload syllabus
@@ -167,6 +167,11 @@ Sharing doesn't have to mean exposing your students and the safe spaces we creat
 * export calendar
 * export to sites@duke
 * export to medium
+
+![](assets/Image-2.png)
+Content created on the platform is abstracted from the course specific metadata making it more sharable.
+
+
 
 ### Tasks done at content creation
 * none entered at this time
@@ -190,6 +195,15 @@ Sharing doesn't have to mean exposing your students and the safe spaces we creat
 ### Questions on cms
 * none entered at this time
 
+## Designed learning experience
+
+Provide students with a singular designed learning experience that pulls in the data from all tools connected to a course and streamlines the presentation of what to do next into something like Coursera or edX
+
+![](assets/modules-with-confidence.png)
+### Tasks done at DLX
+* none entered at this time
+### Questions on DLX
+* none entered at this time
 ---
 
 # Next steps
