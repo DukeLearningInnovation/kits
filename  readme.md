@@ -1,16 +1,16 @@
 # learn.duke.edu
 
 ## Table of Contents
-1. Scope
-1. Assumptions & hypothesis
-1. Components
-	1. [courses](###courses)
-	1. apps
-	1. packages & templates
-	1. wizard
-	1. content creation
-	1. cms
-1. Next steps
+1. [Scope](#scope)
+1. [Assumptions & hypothesis](#assumptions-&-hypothesis)
+1. [Components](#components)
+	1. [courses](#courses)
+	1. [apps](#apps)
+	1. [packages & templates](#packages-&-templates)
+	1. [wizard](#wizard)
+	1. [content creation](#content-creation)
+	1. [cms](#cms)
+1. [Next steps](#next-steps)
 
 learn.duke.edu will provide the following to the Duke community.
 
