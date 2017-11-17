@@ -1,5 +1,17 @@
 # learn.duke.edu
 
+## Table of Contents
+1. Scope
+1. Assumptions & hypothesis
+1. Components
+	1. [courses](###courses)
+	1. apps
+	1. packages & templates
+	1. wizard
+	1. content creation
+	1. cms
+1. Next steps
+
 learn.duke.edu will provide the following to the Duke community.
 
 * Cataloged and searchable platform of learning technologies available at Duke.
