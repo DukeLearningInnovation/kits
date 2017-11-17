@@ -2,7 +2,10 @@
 
 ## Table of Contents
 1. [Inspiration](#inspiration)
+1. Goals
 1. [Scope](#scope)
+1. Terms
+1. Actors
 1. [Assumptions & hypothesis](#assumptions-&-hypothesis)
 1. [Components](#components)
 	1. [courses](#courses)
@@ -13,6 +16,9 @@
 	1. [cms](#cms)
 	1. [dlx](#designed-learning-experience)
 1. [Technical specification](#technical-specification)
+1. Analytics
+1. User stories
+1. What is MVP1?
 1. [Next steps](#next-steps)
 
 learn.duke.edu will provide the following to the Duke community.
@@ -48,6 +54,9 @@ Audiences and potential benefit:
 # Assumptions & hypothesis
 * We hear a lot about the the cognitive load that taking 5 courses taught 5 different ways on 5 different tech stacks has on students, does this affect that positively?
 * learn.duke should help clarify the LMS's role in the future
+* SISS groups are auto-created, faculty don't have to create the group
+* Toolkits and Sakai run as is in parallel with this effort.
+* Once we are 'done' there shouldn't be a need for Toolkits anymore
 
 > Faculty aren’t always risk takers, ‘coursera might not be around next year, so what will be here that I get guaranteed returns out of’. --Mine
 
@@ -57,6 +66,7 @@ Audiences and potential benefit:
 
 * At the future of online at duke panel, there was  talk about networked communities of learners. Does that have a place here or is this the thing that connects you to your communities quicker/easier?
 Maybe part of the UI is linking to the community that gets created for every course? Every course gets a slack channel?
+
 
 ---
 # Components
@@ -246,7 +256,7 @@ This means we, the stewards of the ecosystem, consider the whole experience of w
 
 The learning technology ecosystem would provide intuitive, designed experiences for teachers and learners to do the following.
 
-### Elements
+## Elements
 ### Assessment
 * rubrics
 * outcomes
