@@ -94,7 +94,9 @@ This should be applied to all platforms, wordpress, drupal, open edx, sakai.
 * discipline specific app management
 
 ### Questions on apps
-* none entered at this time
+* Should we include 'advertising' space for whatever apps we want to push at any given time? A featured, section.
+* Do we build in a rating system for each app?
+* What is a good metric for 'used' in a course? The existence of a tool in Sakai means nothing when that tool is part of the template. 2 create.tool events or existence of 1 item in the sakai-db?
 
 ## packages & templates
 
@@ -172,7 +174,9 @@ Sharing doesn't have to mean exposing your students and the safe spaces we creat
 ### Questions on content creation
 > MS Word vs Google docs. The paradigm shift was about people. Real time collaboration vs single user document creation.
 
-What is the paradigm shift from the status quo to this?
+* What is the paradigm shift from the status quo to this?
+
+* Should this be a git-backed learning object repository of some kind? Or feed into it at least?
 
 ## CMS
 
