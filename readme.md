@@ -46,7 +46,7 @@ Now, users can access sakai, extend, sites@duke, people.duke, whatever course si
 Adding a new learning experience starts with the group selection.
 ![](assets/13.png)
 
-groups from from groupmanager.oit to learn.duke
+groups come from groupmanager.oit API to learn.duke
 
 ### Tasks done at courses
 * create course cards/sites
@@ -82,6 +82,7 @@ This should be applied to all platforms, wordpress, drupal, open edx, sakai.
 * discipline specific app management
 
 ### Questions on apps
+* none entered at this time
 
 ## packages & templates
 
@@ -92,9 +93,10 @@ Shown here, pre-built templates that select tools based upon group context or ot
 ![](assets/10.png)
 
 ### Tasks done at packages & templates
-
+* none entered at this time
 
 ### Questions on packages & templates
+* none entered at this time
 
 ## wizard
 Shown here, a three step wizard that walks users through ways of teaching and what tools are offered.
@@ -105,10 +107,10 @@ Shown here, a three step wizard that walks users through ways of teaching and wh
 ![](assets/7.png)
 
 ### Tasks done at wizard
-
+* none entered at this time
 
 ### Questions on wizard
-
+* none entered at this time
 
 ## content creation
 
@@ -153,7 +155,7 @@ Sharing doesn't have to mean exposing your students and the safe spaces we creat
 * export to medium
 
 ### Tasks done at content creation
-
+* none entered at this time
 
 ### Questions on content creation
 > MS Word vs Google docs. The paradigm shift was about people. Real time collaboration vs single user document creation.
@@ -170,6 +172,7 @@ What is the paradigm shift from the status quo to this?
 * * learnplatform like community around apps (profmikegreene not sure about this one)
 
 ### Questions on cms
+* none entered at this time
 
 ---
 
