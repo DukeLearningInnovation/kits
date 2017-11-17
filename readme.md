@@ -180,6 +180,6 @@ What is the paradigm shift from the status quo to this?
 
 Give us something to test with her students, other faculty, and Duke community and build the narratives around how to communicate these ideas.
 
-	- create a learn.duke mockup using Nancy Short's DLX course
-	- create a gutenhax.duke mockup using Nancy Short's DLX course
+- [ ] create a courses mockup using Negotiation DLX module
+- [ ] create a content creation mockup using Negotiation DLX module
 
