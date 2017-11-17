@@ -22,15 +22,16 @@ learn.duke.edu will provide the following to the Duke community.
 1. Provide a single place for faculty to provision groups, technologies, and integrations for their courses.
 1. Suggest tool packages, or standard sets of tool combinations, to help faculty accomplish their learning objectives.
 1. Solicit suggestions for new tools Duke should support, then Duke can research support, automation and provisioning behind the new tools. 
-1. Provide information on learning technology management and policies. 
+1. Provide information and workflows on learning technology management and policies. 
 	* LearnTAC
 	* process for how tools get added
-	* minimum requirements from LTS, ITSO, Procurement, etc
+	* minimum requirements from LTS, ITSO, procurement, accessibility, etc
 
 Audiences and potential benefit:
-	* Students: Have all apps together, one stop shop. Place to suggest new tools.
-	* Faculty: single place with tools together to easily provision for a course. Select pre-packaged groups of tools commonly used. Suggest new tools they like. 
-	* Admins: get data of which tools are used most, and suggestions of new tools by faculty/students that Duke can research adopting/licensing. 
+	
+* Students: Have all apps together, one stop shop. Place to suggest new tools.
+* Faculty: single place with tools together to easily provision for a course. Select pre-packaged groups of tools commonly used. Suggest new tools they like. 
+* Admins: get data of which tools are used most, and suggestions of new tools by faculty/students that Duke can research adopting/licensing. 
 
 # Inspiration
 
@@ -49,6 +50,7 @@ Audiences and potential benefit:
 * learn.duke should help clarify the LMS's role in the future
 
 > Faculty aren’t always risk takers, ‘coursera might not be around next year, so what will be here that I get guaranteed returns out of’. --Mine
+
 * Will faculty be receptive to change when the output is their content, easily accessible and maneuverable for the future?
 
 * Is there an opportunity for inter-institutional collaboration here?
