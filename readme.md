@@ -1,5 +1,4 @@
-# learn.duke.edu
-View at https://dukelearninginnovation.github.io/learn.duke/ 
+[View](https://dukelearninginnovation.github.io/learn.duke/) [Contribute](https://github.com/DukeLearningInnovation/learn.duke)
 
 ## Table of Contents
 1. [Inspiration](#inspiration)
@@ -18,16 +17,17 @@ View at https://dukelearninginnovation.github.io/learn.duke/
 
 learn.duke.edu will provide the following to the Duke community.
 
-* Cataloged and searchable platform of learning technologies available at Duke.
-* Provide a single place for faculty to provision groups, technologies, and integrations for their courses.
-* Suggest tool packages, or standard sets of tool combinations, to help faculty accomplish their learning objectives.
-* Provide a single place for students to see the classes they are in, what tools those classes are using, and what they should do next for those classes.
-* Solicit suggestions for new tools Duke should support, then Duke can research support, automation and provisioning behind the new tools. 
-* Provide information on learning technology management and policies. 
+1. Provide a single place for students to see the classes they are in, what tools those classes are using, and what they should do next for those classes.
+1. Cataloged and searchable platform of learning technologies available at Duke.
+1. Provide a single place for faculty to provision groups, technologies, and integrations for their courses.
+1. Suggest tool packages, or standard sets of tool combinations, to help faculty accomplish their learning objectives.
+1. Solicit suggestions for new tools Duke should support, then Duke can research support, automation and provisioning behind the new tools. 
+1. Provide information on learning technology management and policies. 
 	* LearnTAC
 	* process for how tools get added
 	* minimum requirements from LTS, ITSO, Procurement, etc
-* Audiences and potential benefit:
+
+Audiences and potential benefit:
 	* Students: Have all apps together, one stop shop. Place to suggest new tools.
 	* Faculty: single place with tools together to easily provision for a course. Select pre-packaged groups of tools commonly used. Suggest new tools they like. 
 	* Admins: get data of which tools are used most, and suggestions of new tools by faculty/students that Duke can research adopting/licensing. 
