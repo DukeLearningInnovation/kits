@@ -3,22 +3,25 @@ learn.duke could act similarly to the Canvas landing page, as a dashboard that c
 ![](../_assets/11.png)
 Now, users can access sakai, extend, sites@duke, people.duke, whatever course sites from the same place.
 
-## courses = groups
-Adding a new learning experience starts with the group selection.
+## courses start as grouper groups
+Adding a new learning experience starts with the group selection. groups come from groupmanager.oit API to learn.duke
 ![](../_assets/13.png)
 
-groups come from groupmanager.oit API to learn.duke
-
-## Tasks done at courses
-* create course cards/sites
-* manage course memberships including add TAs and guests to the reference groups like you do on Toolkits.
-* add apps from /apps to course
-* add custom URL to course for apps that aren't in /apps
-	* run domain level queries on all custom URLS to show what tools need to be integrated next and what integrations aren't working because users manually link instead
-* complete the instructional tasks like create assignment once tools are enabled
-
-## Questions for courses
-* What happens with cross-listed courses? Is there a master group that's created?
 
 
 ## User stories
+* faculty create course cards because they want to manage the membership and apps for the course.
+* faculty manage course memberships because they need to add TA or guest members who aren't in the reference groups. 
+* faculty add apps from /apps to course card because they use more than one app per course
+* faculty add custom URL to course for apps because they use apps that aren't in /apps
+* service owners run domain level queries on all custom URLS to show what tools need to be integrated next and what integrations aren't working because users manually link instead.
+* faculty initiate instructional tasks like create assignment once app is enabled because is reduces time and complexity compared to going to external tool.
+* course members see recent activity for course to increase community between members and offer comparison between self and group.
+* students see what they should do next for the course to reduce cognitive load of searching for what to do next.
+* course members receive meaningful notifications to reduce ambiguity and cognitive load and increase sense of place in the course.
+
+## Questions for courses
+* What happens with cross-listed courses? Is there a master group that's created?
+* Since a reference group is auto-generated for every roster, is a course card auto-generated or do we wait for faculty to initiate a create process?
+
+
