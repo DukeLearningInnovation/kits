@@ -1,4 +1,5 @@
 [View](https://dukelearninginnovation.github.io/learn.duke/) [Contribute](https://github.com/DukeLearningInnovation/learn.duke)
+[![GitHub license](https://img.shields.io/github/license/DukeLearningInnovation/learn.duke.svg)](https://github.com/DukeLearningInnovation/learn.duke)
 
 ## Table of Contents
 1. [Inspiration](#inspiration)
@@ -6,7 +7,8 @@
 1. [Scope](#scope)
 1. Terms
 1. Actors
-1. [Assumptions & hypothesis](#assumptions-&-hypothesis)
+1. [Assumptions](#assumptions)
+1. Hypothesis
 1. [Components](#components)
 	1. [courses](#courses)
 	1. [apps](#apps)
@@ -51,7 +53,7 @@ Audiences and potential benefit:
 * Technologies must be learning related, but are not limited to enterprise licensed. School, departmental, and unlicensed tools will also be listed
 * learn.duke will be an open source licensed project
 
-# Assumptions & hypothesis
+# Assumptions
 * We hear a lot about the the cognitive load that taking 5 courses taught 5 different ways on 5 different tech stacks has on students, does this affect that positively?
 * learn.duke should help clarify the LMS's role in the future
 * SISS groups are auto-created, faculty don't have to create the group
@@ -67,8 +69,14 @@ Audiences and potential benefit:
 * At the future of online at duke panel, there was  talk about networked communities of learners. Does that have a place here or is this the thing that connects you to your communities quicker/easier?
 Maybe part of the UI is linking to the community that gets created for every course? Every course gets a slack channel?
 
+# Hypothesis
+What is each hypothesis and what are the baked in assumptions that would be detrimental if wrong?
+
+## What do we need to know that we don't know
+
 
 ---
+
 # Components
 
 ## courses
