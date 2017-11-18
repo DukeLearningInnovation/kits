@@ -17,3 +17,5 @@ groups come from groupmanager.oit API to learn.duke
 ## Questions for courses
 * What happens with cross-listed courses? Is there a master group that's created?
 
+
+## User stories

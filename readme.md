@@ -5,28 +5,33 @@
 
 ## Table of Contents
 
+1. [Terms](#terms)
+1. [Actors](#actors)
+1. [Goals](#goals)
 1. [Inspiration](#inspiration)
-1. Goals
 1. [Scope](#scope)
-1. Terms
-1. Actors
 1. [Assumptions](#assumptions)
-1. Hypothesis
+1. [Hypothesis](#hypothesis)
 1. [Sections](#sections)
-	1. [courses](#courses)
-	1. [apps](#apps)
-	1. [packages & templates](#packages-&-templates)
-	1. [wizard](#wizard)
-	1. [content creation](#content-creation)
-	1. [cms](#cms)
-	1. [dlx](#designed-learning-experience)
+	1. [courses](courses)
+	1. [apps](apps)
+	1. [templates](templates)
+	1. [wizard](wizard)
+	1. [content creation](content-creation)
+	1. [cms](cms)
+	1. [dlx](dlx)
 1. [Technical specification](#technical-specification)
-1. Analytics
-1. User stories
-1. What is MVP1?
-1. [Next steps](#next-steps)
+1. [What is MVP1?](#mvp)
 
-learn.duke.edu will provide the following to the Duke community.
+# Terms
+
+* 
+
+# Actors
+
+* 
+
+# Goals
 
 1. Provide a single place for students to see the classes they are in, what tools those classes are using, and what they should do next for those classes.
 1. Cataloged and searchable platform of learning technologies available at Duke.
@@ -45,6 +50,8 @@ Audiences and potential benefit:
 * Admins: get data of which tools are used most, and suggestions of new tools by faculty/students that Duke can research adopting/licensing. 
 
 # Inspiration
+
+To be moved out of here and issues and into InvisionApp.
 
 * [Exploring the Next Generation Digital Learning Environment with Tsugi (次)](https://www.youtube.com/watch?v=OzrlFJNBFqY)
 * [Grav + Canvas LMS: Markdown and Git Workflows](https://www.youtube.com/watch?list=PLVtu1bDQijapAcziv0r0BYKNapd8Or8gV&v=_Oj1JIIxlAk)
@@ -78,7 +85,7 @@ What is each hypothesis and what are the baked in assumptions that would be detr
 ## What do we need to know that we don't know?
 
 
----
+
 
 # Sections
 learn.duke is comprised of the following sections.
@@ -95,20 +102,9 @@ We plan to add the following sections
 * dlx
 
 
+# Technical Specifications
+[/techspec/readme.md](techspec/readme.md)
 
 
----
-
-# Technical specification
-
-* [LRNWebComponents](https://github.com/LRNWebComponents/ontology)
-* [tsugi](https://github.com/tsugiproject/tsugi)
-* [LRNWC HAX Editor](https://lrnwebcomponents.github.io/hax-body/components/hax-body/)
-* IMS Deep Linking
-* IMS LTI Advantage
-* IMS Caliper
-
-![Next Gen Architecture](_assets/Next-Gen-Architecture.png)
-
-
+# mvp
 

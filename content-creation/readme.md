@@ -53,3 +53,5 @@ Content created on the platform is abstracted from the course specific metadata 
 * What is the paradigm shift from the status quo to this?
 
 * Should this be a git-backed learning object repository of some kind? Or feed into it at least?
+
+## User stories
