@@ -27,5 +27,7 @@ This should be applied to all platforms, wordpress, drupal, open edx, sakai.
 * Should we include 'advertising' space for whatever apps we want to push at any given time? A featured, section.
 * Do we build in a rating system for each app?
 * What is a good metric for 'used' in a course? The existence of a tool in Sakai means nothing when that tool is part of the template. 2 create.tool events or existence of 1 item in the sakai-db?
+* How do we incorporate OER?
+* How do we incorporate library resources?
 
 ## User stories

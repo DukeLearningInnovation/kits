@@ -32,30 +32,32 @@
 * 
 
 # Goals
-
-1. Provide a single place for students to see the classes they are in, what tools those classes are using, and what they should do next for those classes.
-1. Cataloged and searchable platform of learning technologies available at Duke.
-1. Provide a single place for faculty to provision groups, technologies, and integrations for their courses.
-1. Suggest tool packages, or standard sets of tool combinations, to help faculty accomplish their learning objectives.
-1. Solicit suggestions for new tools Duke should support, then Duke can research support, automation and provisioning behind the new tools. 
+## Required
+1. Provide a single place for students to see the classes they are in, access the tools those classes are using
+1. Present faculty with a catalogue of learning technologies for use in their courses with search, sort, and filter options.
+1. Provide a single place for faculty to membership and technologies for their courses.
 1. Provide information and workflows on learning technology management and policies. 
 	* LearnTAC
-	* process for how tools get added
-	* minimum requirements from LTS, ITSO, procurement, accessibility, etc
+	* process for how tools get added to apps
+	* minimum requirements rubric from LTS, ITSO, procurement, accessibility, etc
+	* provide a single point of contact for vendors and users to start the process of adding an app
 
-Audiences and potential benefit:
-	
-* Students: Have all apps together, one stop shop. Place to suggest new tools.
-* Faculty: single place with tools together to easily provision for a course. Select pre-packaged groups of tools commonly used. Suggest new tools they like. 
-* Admins: get data of which tools are used most, and suggestions of new tools by faculty/students that Duke can research adopting/licensing. 
+## Stretch
+1. Let know what they should do next for those classes.
+1. Suggest tool packages, or standard sets of tool combinations, to help faculty accomplish their learning objectives.
+1. Solicit suggestions for new tools Duke should support, then Duke can research support, automation and provisioning behind the new tools. 
+
 
 # Inspiration
 
-To be moved out of here and issues and into InvisionApp.
+To be moved out of github and into InvisionApp.
 
 * [Exploring the Next Generation Digital Learning Environment with Tsugi (次)](https://www.youtube.com/watch?v=OzrlFJNBFqY)
 * [Grav + Canvas LMS: Markdown and Git Workflows](https://www.youtube.com/watch?list=PLVtu1bDQijapAcziv0r0BYKNapd8Or8gV&v=_Oj1JIIxlAk)
 * [EDUCAUSE NGDLE PDF](/_assets/educause-ngdle.pdf)
+* ELMS:LN
+* OER Schema
+* LRN Web Components
 
 # Scope
 
@@ -64,8 +66,8 @@ To be moved out of here and issues and into InvisionApp.
 * learn.duke will be an open source licensed project
 
 # Assumptions
-* We hear a lot about the the cognitive load that taking 5 courses taught 5 different ways on 5 different tech stacks has on students, does this affect that positively?
-* learn.duke should help clarify the LMS's role in the future
+
+* learn.duke will help clarify the LMS's role in the future
 * SISS groups are auto-created, faculty don't have to create the group
 * Toolkits and Sakai run as is in parallel with this effort.
 * Once we are 'done' there shouldn't be a need for Toolkits anymore
@@ -81,6 +83,8 @@ Maybe part of the UI is linking to the community that gets created for every cou
 
 # Hypothesis
 What is each hypothesis and what are the baked in assumptions that would be detrimental if wrong?
+
+* We hear a lot about the the cognitive load that taking 5 courses taught 5 different ways on 5 different tech stacks has on students, how does this affect that?
 
 ## What do we need to know that we don't know?
 
