@@ -75,7 +75,7 @@ Maybe part of the UI is linking to the community that gets created for every cou
 # Hypothesis
 What is each hypothesis and what are the baked in assumptions that would be detrimental if wrong?
 
-## What do we need to know that we don't know
+## What do we need to know that we don't know?
 
 
 ---
@@ -88,49 +88,14 @@ learn.duke is comprised of the following sections.
 * cms
 
 We plan to add the following sections 
+
 * templates
 * wizard
 * content-creation
 * dlx
 
 
-### An Example
-Let's walk through an example faculty experience with some of the current technologies used to accomplish them.
 
-1. View the courses they are teaching this semester (DukeHub)
-2. View the details and roster for a single course (DukeHub)
-3. Build a syllabus for the course (Word)
-4. Store the syllabus somewhere accessible to the roster (Sakai, Box, Email)
-5. Build content and activities to support the goals described in the syllabus (Word, Sakai, Class discussion, lecture *sigh*)
-6. Build assessments to evaluate how well the content supports those goals (Sakai, Clickers, Scantron, PebblePad)
-7. Grade assessments and provide feedback (Red ink pen, Sakai, Word)
-
-
-Level 1 - 
-
-Level 2 - 
-
-Level 3 - 
-
-Level 4 - configurable experience that gives faculty choice
-
-Today, most faculty are somewhere between links on a departmental webpage out to the various steps and app with a Duke header bar that embeds each step into the page, i.e. the LMS. 
-
-Coursera is a move in the right direction in that it's a single interface for program and course management, teaching, learning, and credentialing. But the experience is limited to what they define.
-
-A single, designed experience that requires each step to be done inside of the design it dictates ecosystem model would reduce the switching costs of moving between tools and user interfaces.  
-
-A level 4 ecosystem doesn't care what system faculty use to store a syllabus, it offers a single interface to create stuff, upload stuff, and store stuff. 
-
-If faculty want to use Box instead of Sakai Resources, it's just a checkbox in a setting somewhere, not a completely different experience.  
-
-Instead of having to think where do I upload this file to, faculty just upload the file to the desired default location they've chosen.
-
-### Tasks done at DLX
-* none entered at this time
-
-### Questions on DLX
-* none entered at this time
 
 ---
 
@@ -145,12 +110,5 @@ Instead of having to think where do I upload this file to, faculty just upload t
 
 ![Next Gen Architecture](_assets/Next-Gen-Architecture.png)
 
----
 
-# Next steps
-
-Give us something to test with her students, other faculty, and Duke community and build the narratives around how to communicate these ideas.
-
-- [ ] create a courses mockup using Negotiation DLX module
-- [ ] create a content creation mockup using Negotiation DLX module
 
