@@ -1,4 +1,5 @@
-[![View](https://img.shields.io/badge/read-github.io-ff69b4.svg)](https://dukelearninginnovation.github.io/learn.duke/)
+[![View](https://img.shields.io/badge/read-github.io-orange.svg)](https://dukelearninginnovation.github.io/learn.duke/)
+[![Design](https://img.shields.io/badge/design-invisionapp-ff69b4.svg)](https://projects.invisionapp.com/d/main#/projects/boards/5767824)
 [![Contribute](https://img.shields.io/badge/contribute-github-green.svg)](https://github.com/DukeLearningInnovation/learn.duke)
 [![GitHub license](https://img.shields.io/github/license/DukeLearningInnovation/learn.duke.svg)](https://github.com/DukeLearningInnovation/learn.duke)
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/dukelearning)

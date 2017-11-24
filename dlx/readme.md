@@ -126,10 +126,10 @@ If faculty want to use Box instead of Sakai Resources, it's just a checkbox in a
 
 Instead of having to think where do I upload this file to, faculty just upload the file to the desired default location they've chosen.
 
-## Tasks done at DLX
+## User stories
 * none entered at this time
 
 ## Questions on DLX
 * none entered at this time
 
-## User stories
+

@@ -1,6 +1,6 @@
 # CMS
 
-## Tasks done at cms
+## User stories
 * suggest an app be added to appdb
 * learnTAC info
 * policies on how learning technologies are managed
@@ -10,4 +10,4 @@
 ## Questions on cms
 * none entered at this time
 
-## User stories
+

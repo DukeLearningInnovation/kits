@@ -16,7 +16,7 @@ This calls the app store, but the UI is changed slightly as the interface knows 
 This should be applied to all platforms, wordpress, drupal, open edx, sakai.
 ![](../_assets/2.png)
 
-## Tasks done at apps
+## User stories
 * turn on the tools
 * configure tools
 * basic add url of specific tool or block for things not in the ecosystem
@@ -30,4 +30,4 @@ This should be applied to all platforms, wordpress, drupal, open edx, sakai.
 * How do we incorporate OER?
 * How do we incorporate library resources?
 
-## User stories
+

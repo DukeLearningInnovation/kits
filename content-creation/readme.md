@@ -44,7 +44,7 @@ Content created on the platform is abstracted from the course specific metadata 
 
 
 
-## Tasks done at content creation
+## User stories
 * none entered at this time
 
 ## Questions on content creation
@@ -54,4 +54,4 @@ Content created on the platform is abstracted from the course specific metadata 
 
 * Should this be a git-backed learning object repository of some kind? Or feed into it at least?
 
-## User stories
+
