@@ -1,3 +1,4 @@
+[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](http://www.repostatus.org/badges/latest/concept.svg)](http://www.repostatus.org/#concept)
 [![View](https://img.shields.io/badge/read-github.io-orange.svg)](https://dukelearninginnovation.github.io/learn.duke/)
 [![Design](https://img.shields.io/badge/design-invisionapp-ff69b4.svg)](https://projects.invisionapp.com/d/main#/projects/boards/5767824)
 [![Contribute](https://img.shields.io/badge/contribute-github-green.svg)](https://github.com/DukeLearningInnovation/learn.duke)
