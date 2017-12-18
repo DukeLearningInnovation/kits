@@ -5,6 +5,15 @@
 [![GitHub license](https://img.shields.io/github/license/DukeLearningInnovation/learn.duke.svg)](https://github.com/DukeLearningInnovation/learn.duke)
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/dukelearning)
 
+# Problem Statement
+learn.duke is where learners start interacting with their learning communities. It connects them to a unified interface for accessing their instructional tools. 
+
+We have observed that Toolkits isn’t meeting this goal, which is causing communities to either rely on a single solution, the LMS, or use unsupported tools - even when a supported alternative exists. 
+
+How might learn.duke improve this to accommodate the entire range of learning communities, those that use a single tool, those using multiple supported tools, and those using their preferred, unsupported tools? 
+
+How might learn.duke encourage our learning communities to more frequently use the best tools to meet their learning goals and taking less energy to do so?
+
 ## Table of Contents
 
 1. [Terms](#terms)
@@ -36,6 +45,7 @@
 # Goals
 ## Required
 1. Provide a single place for students to see the classes they are in, access the tools those classes are using
+    2. Does learn.duke get us any closer to reducing the cognitive load students had when taking 5 courses managed in 5 different ways? We've decided that solving this issue 
 1. Present faculty with a catalogue of learning technologies for use in their courses with search, sort, and filter options.
 1. Provide a single place for faculty to membership and technologies for their courses.
 1. Provide information and workflows on learning technology management and policies. 
