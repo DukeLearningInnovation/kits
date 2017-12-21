@@ -1,11 +1,12 @@
 [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](http://www.repostatus.org/badges/latest/concept.svg)](http://www.repostatus.org/#concept)
 [![View](https://img.shields.io/badge/read-github.io-orange.svg)](https://dukelearninginnovation.github.io/learn.duke/)
-[![Design](https://img.shields.io/badge/design-invisionapp-ff69b4.svg)](https://projects.invisionapp.com/d/main#/projects/boards/5767824)
+[![Inspiration](https://img.shields.io/badge/inspiration-invisionapp-ff69b4.svg)](https://projects.invisionapp.com/d/main#/projects/boards/5767824)
 [![Contribute](https://img.shields.io/badge/contribute-github-green.svg)](https://github.com/DukeLearningInnovation/learn.duke)
 [![GitHub license](https://img.shields.io/github/license/DukeLearningInnovation/learn.duke.svg)](https://github.com/DukeLearningInnovation/learn.duke)
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/dukelearning)
 
-# Problem Statement
+# Scope
+
 learn.duke is where learners start interacting with their learning communities. It connects them to a unified interface for accessing their instructional tools. 
 
 We have observed that Toolkits isn’t meeting this goal, which is causing communities to either rely on a single solution, the LMS, or use unsupported tools - even when a supported alternative exists. 
@@ -13,6 +14,11 @@ We have observed that Toolkits isn’t meeting this goal, which is causing commu
 How might learn.duke improve this to accommodate the entire range of learning communities, those that use a single tool, those using multiple supported tools, and those using their preferred, unsupported tools? 
 
 How might learn.duke encourage our learning communities to more frequently use the best tools to meet their learning goals and taking less energy to do so?
+
+* The above problem statement and questions are known as MVP1 and are prioritized above the rest of the project
+* The scope of learn.duke is on courses at this time. Learning communities may encompass more at a later date.
+* Technologies must be learning related, but are not limited to enterprise licensed. School, departmental, and unlicensed tools will also be listed
+* learn.duke is an open source project licensed under the GPL v3
 
 ## Table of Contents
 
@@ -36,21 +42,26 @@ How might learn.duke encourage our learning communities to more frequently use t
 
 # Terms
 
-* 
+* Learning community - 
+* Tool - 
+* Ecosystem - 
 
 # Actors
 
-* 
+* Current Duke Students
+* Duke Faculty
+* Learning Innovation
+* OIT
+* Duke Web Services
 
-# Goals
-## Required
-1. Provide a single place for students to see the classes they are in, access the tools those classes are using
-    2. Does learn.duke get us any closer to reducing the cognitive load students had when taking 5 courses managed in 5 different ways? We've decided that solving this issue 
+# MVP1 Goals
+1. Provide students a single place to see the classes they are in and access the tools those classes are using
 1. Present faculty with a catalogue of learning technologies for use in their courses with search, sort, and filter options.
-1. Provide a single place for faculty to membership and technologies for their courses.
-1. Provide information and workflows on learning technology management and policies. 
-	* LearnTAC
-	* process for how tools get added to apps
+1. Provide a single place for faculty to manage membership and technologies for their courses.
+1. Provide faculty the ability to add any URL as a tool for a course they manage. 
+1. Provide information on learning technology management and policies. 
+	* What is LearnTAC and why it exists
+	* How tools get added to /apps
 	* minimum requirements rubric from LTS, ITSO, procurement, accessibility, etc
 	* provide a single point of contact for vendors and users to start the process of adding an app
 
@@ -62,20 +73,10 @@ How might learn.duke encourage our learning communities to more frequently use t
 
 # Inspiration
 
-To be moved out of github and into InvisionApp.
+Can be found by clicking the pink design:InvisionApp button at the top of this page.
 
-* [Exploring the Next Generation Digital Learning Environment with Tsugi (次)](https://www.youtube.com/watch?v=OzrlFJNBFqY)
-* [Grav + Canvas LMS: Markdown and Git Workflows](https://www.youtube.com/watch?list=PLVtu1bDQijapAcziv0r0BYKNapd8Or8gV&v=_Oj1JIIxlAk)
-* [EDUCAUSE NGDLE PDF](/_assets/educause-ngdle.pdf)
-* ELMS:LN
-* OER Schema
-* LRN Web Components
 
-# Scope
 
-* The scope of learn.duke is on courses at this time
-* Technologies must be learning related, but are not limited to enterprise licensed. School, departmental, and unlicensed tools will also be listed
-* learn.duke will be an open source licensed project
 
 # Assumptions
 
