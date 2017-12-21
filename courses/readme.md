@@ -10,7 +10,12 @@ Adding a new learning experience starts with the group selection. groups come fr
 
 
 ## User stories
-* faculty create course cards because they want to manage the membership and apps for the course.
+[User Stories for MVP1 of /courses](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F1+label%3A%22user+story%22+milestone%3AMVP1)
+
+#34
+DukeLearningInnovation/learn.duke#34
+learn.duke#34
+
 * faculty manage course memberships because they need to add TA or guest members who aren't in the reference groups. 
 * faculty add apps from /apps to course card because they use more than one app per course
 * faculty add custom URL to course for apps because they use apps that aren't in /apps
