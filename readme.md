@@ -7,16 +7,20 @@
 
 # Scope
 
-learn.duke is where learners start interacting with their learning communities. It connects them to a unified interface for accessing their instructional tools. 
+### Problem Statement 1
 
-We have observed that Toolkits isn’t meeting this goal, which is causing communities to either rely on a single solution, the LMS, or use unsupported tools - even when a supported alternative exists. 
+learn.duke displays to learners a unified interface for accessing the instructional tools used by their learning communities. 
+
+We have observed that Toolkits isn’t meeting this goal, which is causing communities to either rely on a single solution, like email or the LMS, which aren’t the best learning tool for all aspects of a learning community or use unsupported tools - even when a supported alternative exists. 
 
 How might learn.duke improve this to accommodate the entire range of learning communities, those that use a single tool, those using multiple supported tools, and those using their preferred, unsupported tools? 
 
 How might learn.duke encourage our learning communities to more frequently use the best tools to meet their learning goals and taking less energy to do so?
 
-* The above problem statement and questions are known as MVP1 and are prioritized above the rest of the project
-* The scope of learn.duke is on courses at this time. Learning communities may encompass more at a later date.
+---
+
+* The above problem statement and questions drive [MVP1](https://github.com/DukeLearningInnovation/learn.duke/milestone/1) and are prioritized above the rest of the project
+* The scope of learn.duke is on courses at this time. Learning communities may encompass more variety than courses at a later date.
 * Technologies must be learning related, but are not limited to enterprise licensed. School, departmental, and unlicensed tools will also be listed
 * learn.duke is an open source project licensed under the GPL v3
 
