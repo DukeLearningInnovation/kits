@@ -7,6 +7,14 @@
 
 # Scope
 
+The problem statement and questions below drive [MVP1](https://github.com/DukeLearningInnovation/learn.duke/milestone/1) and are prioritized above the rest of the project
+
+The scope of learn.duke is on courses at this time. Learning communities may encompass more variety than courses at a later date.
+
+Technologies must be learning related, but are not limited to enterprise licensed. School, departmental, and unlicensed tools will also be listed
+
+learn.duke is an open source project licensed under the GPL v3
+
 ### Problem Statement 1
 
 learn.duke displays to learners a unified interface for accessing the instructional tools used by their learning communities. 
@@ -17,12 +25,7 @@ How might learn.duke improve this to accommodate the entire range of learning co
 
 How might learn.duke encourage our learning communities to more frequently use the best tools to meet their learning goals and taking less energy to do so?
 
----
 
-* The above problem statement and questions drive [MVP1](https://github.com/DukeLearningInnovation/learn.duke/milestone/1) and are prioritized above the rest of the project
-* The scope of learn.duke is on courses at this time. Learning communities may encompass more variety than courses at a later date.
-* Technologies must be learning related, but are not limited to enterprise licensed. School, departmental, and unlicensed tools will also be listed
-* learn.duke is an open source project licensed under the GPL v3
 
 ## Table of Contents
 
