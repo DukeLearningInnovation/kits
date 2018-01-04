@@ -60,18 +60,18 @@ Duke Web Services | UX and design agency consulting on the creation of learn.duk
 1. Suggest tool packages, or standard sets of tool combinations, to help faculty accomplish their learning objectives.
 1. Solicit suggestions for new tools Duke should support, then Duke can research support, automation and provisioning behind the new tools. 
 
-# Components
-MVP1 is comprised of the following components, these are tracked via Github Projects.
+# Projects
+MVP1 is comprised of the following projects, these are tracked via Github Projects.
 
-Component | Issues | Details
+Project | Issues | Details
 ---|---|---
 /apps | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F2) | [Details](apps/readme.md)
 /courses | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F1) | [Details](courses/readme.md)
 /cms | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F10) | [Details](cms/readme.md)
 
-We plan to add the following components in subsequent iterations.  
+We plan to add the following projects in subsequent iterations.  
 
-Component | Issues | Details
+Projects | Issues | Details
 ---|---|---
 /templates | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F13) | [Details](templates/readme.md)
 /wizard | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F12) | [Details](wizard/readme.md)
