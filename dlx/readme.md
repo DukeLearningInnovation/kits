@@ -1,4 +1,7 @@
 # Designed learning experience
+
+> DLX has a critical consulting component that may be impossible to automate. It drives and pilots new techniques, design, and development for learn.duke and NGDLE at Duke. ~ Justin
+
 Users use a wide variety of tools in their everyday life, the tools update regularly, the users switch between them regularly.
 
 Users want this agency in their learning experience. They want intuitive variety of their choosing.
