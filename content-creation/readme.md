@@ -55,3 +55,18 @@ Content created on the platform is abstracted from the course specific metadata 
 * Should this be a git-backed learning object repository of some kind? Or feed into it at least?
 
 
+### 1/4/18 meeting with MG/JJ
+* start rolling the syllabus repository/builder into learn.duke early. Don't start /content-creation with the entire course, that's too big a task
+* the syllabus builder is a tool that has to be built
+	* we need a new syllabus tool in Sakai anyway so…
+* having the syllabus builder early in the iterations allows us to piggy back our sakai.tool integration with /content-creation /apps/.tool integration
+* have the syllabus builder also allows us to pilot the idea of having something other than the LMS as the real course hub, reliant on the LMS for lots of things, just not as the hub.
+
+Faculty workflow
+1. create .docx syllabus
+2. upload (MVP1 does nothing but file passthrough, gives us the syllabi to begin analyzing without impacting users)
+3. learn.duke runs machine learning on syllabi to begin understanding the components and how they will interact with other tools
+4. abstract out the components
+5. run machine learning on those components to recommend tools
+
+We should be able to UX test the above workflow with faculty quite well without a lot of investment.
