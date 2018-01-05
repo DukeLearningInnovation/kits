@@ -31,7 +31,7 @@ How might learn.duke encourage our learning communities to more frequently use t
 Term | Our definition
 -----|---------------
 Learning community | Functionally, for the time being, a course. Technically, a context that ties a Grouper group for a roster + guests to tools used by that group.  
-Tool | A technology used by a learning community in the context of learning that is listed in /apps. Not limited to enterprise licensed technologies, school, departmental, and unlicensed tools will also be listed.
+Tool | A technology used by a learning community in the context of learning that is listed in /apps. Not limited to enterprise licensed technologies. School, departmental, and unlicensed tools will also be listed.
 Ecosystem | All of the integrated technologies used for learning at Duke. Shortened synonym for Learning Technology Ecosystem.
 [User story](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+label%3A%22user+story%22) | "A *who* does *what* because *reasons*". These are the specification for design and development work. These are tracked via a Github Label. 
 [Assumption](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+label%3Aassumption) | Unknowns that require further discussion, user research, or development iterations to be known. These are tracked via a Github Label.
