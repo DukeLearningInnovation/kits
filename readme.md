@@ -11,6 +11,8 @@
 
 learn.duke is an attempt to fit [NGDLE](//ngdle.org) into our faculty and student reality here at Duke, an attempt at creating the ideal learning technology future for our users in a lean way.
 
+> It's kind of like what docker-compose does for devs, but for edtech and faculty. --Michael
+
 The problem statement and questions below drive [MVP1](https://github.com/DukeLearningInnovation/learn.duke/milestone/1) and are prioritized above the rest of the project.
 
 The scope of learn.duke is on courses at this time. Learning communities may encompass more variety than courses at a later date.
