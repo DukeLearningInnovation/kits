@@ -37,7 +37,7 @@ Ecosystem | All of the integrated technologies used for learning at Duke. Shorte
 [Assumption](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+label%3Aassumption) | Unknowns that require further discussion, user research, or development iterations to be known. These are tracked via a Github Label.
 [Hypothesis](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+label%3Ahypothesis) | A question used to drive design and development deliverables that can be tested in order to learn. Help explicitly state assumptions related to user stores. These are tracked via a Github Label.
 [MVP](https://github.com/DukeLearningInnovation/learn.duke/milestones) | The minimum viable piece/thing/product/idea/design we can build to validate or invalidate a hypothesis. These are tracked via Github Milestones.
-Course card | The UI representing the learning community
+
 
 # Actors
 
@@ -65,22 +65,22 @@ MVP1 is comprised of the following projects, these are tracked via Github Projec
 
 Project | Issues | Details
 ---|---|---
-/apps | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F2) | [Details](apps/readme.md)
-/courses | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F1) | [Details](courses/readme.md)
-/cms | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F10) | [Details](cms/readme.md)
+/docs/apps | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F2) | [Details](apps/readme.md)
+/docs/courses | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F1) | [Details](courses/readme.md)
+/docs/cms | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F10) | [Details](cms/readme.md)
 
 We plan to add the following projects in subsequent iterations.  
 
 Projects | Issues | Details
 ---|---|---
-/templates | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F13) | [Details](templates/readme.md)
-/wizard | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F12) | [Details](wizard/readme.md)
-/content-creation | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F11) | [Details](content-creation/readme.md)
-/dlx | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F9) | [Details](dlx/readme.md)
+/docs/templates | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F13) | [Details](templates/readme.md)
+/docs/wizard | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F12) | [Details](wizard/readme.md)
+/docs/content-creation | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F11) | [Details](content-creation/readme.md)
+/docs/dlx | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F9) | [Details](dlx/readme.md)
 
 
 # Technical Specifications
-Many decisions have not yet been made, [/techspec/readme.md](techspec/readme.md) will be updated as more information is known.
+Many decisions have not yet been made, [/docs/techspec/readme.md](/docs/techspec/readme.md) will be updated as more information is known.
 
 # Contributing
 We don't have all the answers. We can't build it all by ourselves. Whether you're in or outside of Duke, read [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how you can contribute to this project.
