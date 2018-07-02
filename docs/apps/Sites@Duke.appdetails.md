@@ -6,7 +6,8 @@ Sites@Duke is Duke’s WordPress service, it provides an easy way for Duke facul
 **Price**: [Free]()(Links to about/app-pricing)
 **Support**: [University supported]()(Links to app's support page)
 **Accessibility**:[WCAG 2.0 AA]()(Links to app's accessibility statement)
-**License**: [GPLv2](https://wordpress.org/about/license/) available to everyone
+**License**: [GPLv2](https://wordpress.org/about/license/) 
+**Availability**: available to everyone
 
 {{SCREENSHOT BLOCK}}
 

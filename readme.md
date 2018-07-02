@@ -1,9 +1,10 @@
-[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](http://www.repostatus.org/badges/latest/concept.svg)](http://www.repostatus.org/#concept)
-[![Documentation](https://img.shields.io/badge/documentation-github.io-orange.svg)](https://dukelearninginnovation.github.io/learn.duke/)
-[![Mockups](https://img.shields.io/badge/mockups-uxpin-46b6ac.svg)](https://preview.uxpin.com/97f1536f1e1180fb99f4e5e05651cf146eef0747#/pages/85694982/simulate/sitemap)
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+[![Documentation](https://img.shields.io/badge/documentation-github.io-28a745.svg)](https://dukelearninginnovation.github.io/learn.duke/)
+[![UXPin](https://img.shields.io/badge/mockup-uxpin-006cff.svg)](https://preview.uxpin.com/97f1536f1e1180fb99f4e5e05651cf146eef0747#/pages/85694982/simulate/sitemap)
+[![InvisionApp](https://img.shields.io/badge/art%20style-invisionapp-FF2C5B.svg)](https://projects.invisionapp.com/boards/7B3NU02UC4M/)
 [![Components](https://img.shields.io/badge/components-patternlab-ff69b4.svg)](https://toolkits.webservices.duke.edu/?p=all)
 [![GitHub license](https://img.shields.io/github/license/DukeLearningInnovation/learn.duke.svg)](https://github.com/DukeLearningInnovation/learn.duke)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/dukelearning)
+
 
 # Scope
 
