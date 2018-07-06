@@ -5,33 +5,34 @@
 [![Components](https://img.shields.io/badge/components-patternlab-ff69b4.svg)](https://toolkits.webservices.duke.edu/?p=all)
 [![GitHub license](https://img.shields.io/github/license/DukeLearningInnovation/learn.duke.svg)](https://github.com/DukeLearningInnovation/learn.duke)
 
+# Kits
 
-# Scope
+## Scope
 
-> Faculty aren’t always risk takers, *insert app here* might not be around next year, so what will be here that I get guaranteed returns out of? --Mine
-
-learn.duke is an effort to bring [NGDLE](//ngdle.org) into our faculty and student reality here at Duke, an attempt at creating the ideal learning technology future for our users in a lean way.
+Kits is an effort to bring [NGDLE](//ngdle.org) into our faculty and student reality here at Duke, an attempt at creating the ideal learning technology future for our users in a lean way.
 
 The problem statement and questions below drive [MVP1](https://github.com/DukeLearningInnovation/learn.duke/milestone/1) and are prioritized above the rest of the project.
 
-The scope of learn.duke is on courses at this time. Learning communities may encompass more variety than courses at a later date.
+The scope of Kits is on courses for MVP1 with a variety of learning opportunities supported at a later date.
 
-learn.duke is an open source project [licensed under the GPL v3](LICENSE.md).
+Kits is an open source project [licensed under the GPL v3](LICENSE.md).
 
 
 ### [#83 Problem Statement 1](https://github.com/DukeLearningInnovation/learn.duke/issues/83)
 
 The current state of Learning Technologies has focused primarily on meeting faculty's teaching needs through the Learning Management System.
 
-At Duke, our IT and academic culture is one of technological plurality and choice, not a single, forced enterprise option. We see relying on a single solution like the LMS, as a short-sighted IT strategy that provides suboptimal learning experience as a monolithic system cannot provide the best learning experience for all aspects of a learning community.
+We see the ideal university IT and academic culture as one of technological plurality and choice, not a single, forced enterprise option.
 
-The best learning happens when appropriate tools are used in conjunction with active learning pedagogies.
+For university IT, relying on any single solution, including the LMS, is a short-sighted strategy that provides suboptimal learning experience as a monolithic system cannot provide the best learning experience for all aspects of all learning communities.
 
-What Toolkits and the Learning Management System fail to address is a solid user experience for managing the cognitive load of selecting and using multiple tools for learning through a semester.
+The best learning happens when appropriate apps are used in conjunction with active learning pedagogies.
 
-Our service will initially address this gap by
+What Toolkits and the Learning Management System fail to address is a solid user experience for managing the cognitive load of selecting and using multiple apps for learning through a semester.
 
-* providing students a unified interface for accessing the tools used by their learning communities
+Kits will initially address this gap by
+
+* providing students a unified interface for accessing the apps used by their learning communities
 * providing faculty a catalog of learning technologies for use in their learning communities
 * allowing faculty to manage the people in and tech of their learning communities.
 * providing information on learning technology management and policies.
@@ -39,8 +40,8 @@ Our service will initially address this gap by
 # Terms
 Term | Our definition | | | 
 -----|---------------|---|---
-Learning community | Functionally, for the time being, a course. Technically, a context that ties a Grouper group for a roster + guests to tools used by that group.  
-Tool | A technology used by a learning community in the context of learning that is listed in /apps. Not limited to enterprise licensed technologies. School, departmental, and unlicensed tools will also be listed.
+Learning community | Functionally, for the time being, a course. Technically, a context that ties a Grouper group for a roster + guests to apps used by that group.  
+App | A technology used by a learning community in the context of learning that is listed in /apps. Not limited to enterprise licensed technologies. School, departmental, and unlicensed apps will also be listed.
 Ecosystem | All of the integrated technologies used for learning at Duke. Shortened synonym for Learning Technology Ecosystem. | |
 User story| "As a *who*, I want *goal* so that *reasons*". These are the specification for design and development work. Acceptance criteria written in Gerkin These are tracked via a Github Label. | [All User Stories](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+label%3A%22user+story%22) | [![Add User Story](https://img.shields.io/badge/Add-User%20Story-green.svg)](https://github.com/DukeLearningInnovation/learn.duke/issues/new?template=user_story.md&labels=user%20story)
 Assumption | Unknowns that require further discussion, user research, or development iterations to be known. These are tracked via a Github Label. | [All Assumptions](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+label%3Aassumption) | [![Add User Story](https://img.shields.io/badge/Add-Assumption-green.svg)](https://github.com/DukeLearningInnovation/learn.duke/issues/new?labels=assumption)
@@ -58,38 +59,24 @@ Learning Innovation | Functional owner of learn.duke
 OIT | Technical owner of learn.duke
 Duke Web Services | UX and design agency consulting on the creation of learn.duke
 
-# Project Goals
-1. Provide students a unified interface for accessing the tools used by their learning communities
+# Project Management
+## Project Goals
+1. Provide students a unified interface for accessing the apps used by their learning communities
 1. Provide faculty a catalogue of learning technologies for use in their learning communities
 1. Allow faculty to manage membership of and technologies used by their learning communities.
 1. Provide information on learning technology management and policies. 
 	
-### Stretch
+## Stretch Goals
 1. Let students know what they should do next for those classes.
-1. Suggest tool packages, or standard sets of tool combinations, to help faculty accomplish their learning objectives.
-1. Solicit suggestions for new tools Duke should support, then Duke can research support, automation and provisioning behind the new tools. 
+1. Suggest apps packages, or standard sets of app combinations, to help faculty accomplish their learning objectives.
+1. Solicit suggestions for new apps Duke should support, then Duke can research support, automation and provisioning behind the new apps. 
 
-# Projects
-MVP1 is comprised of the following projects, these are tracked via Github Projects.
-
-Project | Issues | Details
----|---|---
-apps | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F2) | [Details](apps/readme.md)
-courses | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F1) | [Details](courses/readme.md)
-cms | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F10) | [Details](cms/readme.md)
-
-We plan to add the following projects in subsequent iterations.  
-
-Projects | Issues | Details
----|---|---
-templates | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F13) | [Details](templates/readme.md)
-wizard | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F12) | [Details](wizard/readme.md)
-content-creation | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F11) | [Details](content-creation/readme.md)
-dlx | [Issues](https://github.com/DukeLearningInnovation/learn.duke/issues?q=is%3Aopen+is%3Aissue+project%3ADukeLearningInnovation%2Flearn.duke%2F9) | [Details](dlx/readme.md)
+## Projects
+Github Projects are used to track sprints.
 
 
-# Technical Specifications
-Many decisions have not yet been made, [/docs/techspec/readme.md](/docs/techspec/readme.md) will be updated as more information is known.
+
+
 
 # Contributing
 We don't have all the answers. We can't build it all by ourselves. Whether you're in or outside of Duke, read [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how you can contribute to this project.

@@ -3,11 +3,11 @@
 ## Description
 Sites@Duke is Duke’s WordPress service, it provides an easy way for Duke faculty, staff and students to set up a website or blog using predefined design templates (themes) and plugins that users can choose to enable within their sites as they see fit. There is no charge to users.
 
-**Price**: [Free]()(Links to about/app-pricing)
-**Support**: [University supported]()(Links to app's support page)
-**Accessibility**:[WCAG 2.0 AA]()(Links to app's accessibility statement)
-**License**: [GPLv2](https://wordpress.org/about/license/) 
-**Availability**: available to everyone
+**Price**: [Free]()(Links to about/app-pricing)  
+**Support**: [University supported]()(Links to app's support page)  
+**Accessibility**:[WCAG 2.0 AA]()(Links to app's accessibility statement)  
+**License**: [GPLv2](https://wordpress.org/about/license/)  
+**Availability**: available to everyone  
 
 {{SCREENSHOT BLOCK}}
 
