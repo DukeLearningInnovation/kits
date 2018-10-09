@@ -25,7 +25,7 @@ how it alters relationship between faculty/students
 Several paragraphs pertaining to the types of pedagogies that this service enables and how using it alters the various classroom relationships.
 
 ### Learning Science
-Links to research on using blogging in teaching.
+
 
 ### Affordances
 This is one of those sections I can't wrap my brain around. So, lorem ispum.
