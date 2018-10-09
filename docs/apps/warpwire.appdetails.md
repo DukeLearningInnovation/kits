@@ -8,7 +8,7 @@ Warpwire is Duke’s streaming media hosting service. It provides a place for fo
 
 **Support:** University and vendor supported(Links to app's support page)
 
-**Accessibility:** [need Sakai accessibility information] (Links to app's accessibility statement)
+**Accessibility:** Warpwire has many accessibility features. (Links to app's accessibility statement)
 
 **License:** © 2013–2018 Warpwire, Inc. 
 
