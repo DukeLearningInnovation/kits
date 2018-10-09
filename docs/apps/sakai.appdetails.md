@@ -5,9 +5,13 @@
 Sakai is Duke’s learning management system. It provides a place for for Duke faculty and staff to share course materials, lessons, assessments, assignments, grades and online interaction opportunities with students. The service also provides user and group management through the Duke NetID authentication system and can provide OneLink authentication to non-Duke participants.
 
 **Price:** Free(Links to about/app-pricing)
+
 **Support:** University supported(Links to app's support page)
+
 **Accessibility:** [need Sakai accessibility information] (Links to app's accessibility statement)
+
 **License:** Educational Community License v2.0
+
 **Availability:** Duke Instructors and Students
 
 {{SCREENSHOT BLOCK}}
