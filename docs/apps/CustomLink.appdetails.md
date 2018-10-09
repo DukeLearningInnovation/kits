@@ -4,8 +4,8 @@
 Custom Link allows authors to link to any internet website. You will need to supply a URL, a short name for the link, and choose an icon.
 
 **Price**: Free 
-**Support**: [University supported](https://oit.duke.edu) 
-**Accessibility**:[]()(Links to app's accessibility statement)  
+**Support**: [University supported](https://oit.duke.edu)   
+**Accessibility**: []()(Links to app's accessibility statement)    
 **License**: []()  
 **Availability**: Duke Community  
 
