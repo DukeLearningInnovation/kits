@@ -14,18 +14,21 @@ Custom Link allows authors to link to any internet website. You will need to sup
 {{PERMISSIONS BLOCK}}
 
 ## Why use Custom Link?
+Creating custom links allows your students to quickly and easily locate important websites for course use. Storing them in your course kit will ensure all your students and course affiliates will have a reference point for these important sites.
 <!--
 ### Pedagogy
-#### Generalized use cases of how one could use this tool for teaching
+
 
 #### how it alters relationship between faculty/students
 
 #### learning science
 
 #### affordances
-
+-->
 ### Excellence & Design
+Custom Link offers a simple, reliable way to store and share important internet websites with your students.
 
+<!--
 ### Accessibility & Ubiquity
 
 ### Openness
@@ -37,8 +40,9 @@ Custom Link allows authors to link to any internet website. You will need to sup
 ### Security, Privacy, & Analytics
 
 ### Procurement & Licensing
-
+-->
 ### Support
-
+Custom Link is [supported by OIT](https://oit.duke.edu).
+<!--
 ### Exclusions
 -->
