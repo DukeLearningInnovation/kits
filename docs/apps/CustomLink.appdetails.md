@@ -1,7 +1,7 @@
 # Custom Link
 
 ## Description
-Custom Link allows authors to link to any internet website. You will need to supply a URL, a short name for the link, and choose an icon.
+Custom Link allows authors to provide a connection to any internet website. You will need to supply a URL, a short name for the link, and choose an icon.
 
 **Price**: Free   
 **Support**: [University supported](https://oit.duke.edu)   
