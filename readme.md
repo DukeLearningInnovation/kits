@@ -54,16 +54,16 @@ We're starting with courses, but the kit concept can be applied to all learning 
 
 ## Terms
 
-Term | Our definition | | | 
------|---------------|---|---
-kit | Functionally, for the time being, a course. Technically, a context that ties a Grouper group for a roster + guests to apps used by that group. May also be referenced as a learning community  
-App | A technology used by a kit in the context of learning that is listed in /apps. Not limited to enterprise licensed technologies. School, departmental, and unlicensed apps will also be listed.
-Ecosystem | All of the integrated technologies used for learning. Shortened synonym for Learning Technology Ecosystem. | |
-User story| "As a *who*, I want *goal* so that *reasons*". These are the specification for design and development work. Acceptance criteria written in Gerkin These are tracked via a Github Label. | [All User Stories](https://github.com/DukeLearningInnovation/kits/issues?q=is%3Aopen+is%3Aissue+label%3A%22user+story%22) | [![Add User Story](https://img.shields.io/badge/Add-User%20Story-green.svg)](https://github.com/DukeLearningInnovation/kits/issues/new?template=user_story.md&labels=user%20story)
-Assumption | Unknowns that require further discussion, user research, or development iterations to be known. These are tracked via a Github Label. | [All Assumptions](https://github.com/DukeLearningInnovation/kits/issues?q=is%3Aopen+is%3Aissue+label%3Aassumption) | [![Add User Story](https://img.shields.io/badge/Add-Assumption-green.svg)](https://github.com/DukeLearningInnovation/kits/issues/new?labels=assumption)
-Hypothesis | A question used to drive design and development deliverables that can be tested in order to learn. Help explicitly state assumptions related to user stores. These are tracked via a Github Label. | [All Hypothesis](https://github.com/DukeLearningInnovation/kits/issues?q=is%3Aopen+is%3Aissue+label%3Ahypothesis) | [![Add Hypothesis](https://img.shields.io/badge/Add-Assumption-green.svg)](https://github.com/DukeLearningInnovation/kits/issues/new?labels=hypothesis)
-MVP | The minimum viable piece/thing/product/idea/design we can build to validate or invalidate a hypothesis. These are tracked via Github Milestones. | [All MVP](https://github.com/DukeLearningInnovation/kits/milestones) |
-Project | Github Projects are used to track sprints | [Current projects](https://github.com/DukeLearningInnovation/kits/projects) |
+Term | Our definition | |
+-----|---------------|---
+kit | Functionally, for the time being, a course. Technically, a context that ties a Grouper group for a roster + guests to apps used by that group. May also be referenced as a learning community 
+App | A technology used by a kit in the context of learning that is listed in /apps. Not limited to enterprise licensed technologies. School, departmental, and unlicensed apps will also be listed. 
+Ecosystem | All of the integrated technologies used for learning. Shortened synonym for Learning Technology Ecosystem. 
+User story| "As a *who*, I want *goal* so that *reasons*". These are the specification for design and development work. Acceptance criteria written in Gerkin These are tracked via a Github Label. | [All User Stories](https://github.com/DukeLearningInnovation/kits/issues?q=is%3Aopen+is%3Aissue+label%3A%22user+story%22) 
+Assumption | Unknowns that require further discussion, user research, or development iterations to be known. These are tracked via a Github Label. | [All Assumptions](https://github.com/DukeLearningInnovation/kits/issues?q=is%3Aopen+is%3Aissue+label%3Aassumption) 
+Hypothesis | A question used to drive design and development deliverables that can be tested in order to learn. Help explicitly state assumptions related to user stores. These are tracked via a Github Label. | [All Hypothesis](https://github.com/DukeLearningInnovation/kits/issues?q=is%3Aopen+is%3Aissue+label%3Ahypothesis)
+MVP | The minimum viable piece/thing/product/idea/design we can build to validate or invalidate a hypothesis. These are tracked via Github Milestones. | [All MVP](https://github.com/DukeLearningInnovation/kits/milestones) 
+Project | Github Projects are used to track sprints | [Current projects](https://github.com/DukeLearningInnovation/kits/projects) 
 
 ## Contributing
 
