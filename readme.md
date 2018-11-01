@@ -1,10 +1,10 @@
 # Kits
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-[![Documentation](https://img.shields.io/badge/documentation-github.io-28a745.svg)](https://dukelearninginnovation.github.io/kits/)
 [![UXPin](https://img.shields.io/badge/mockup-uxpin-006cff.svg)](https://preview.uxpin.com/97f1536f1e1180fb99f4e5e05651cf146eef0747#/pages/85694982/simulate/sitemap)
 [![InvisionApp](https://img.shields.io/badge/art%20style-invisionapp-FF2C5B.svg)](https://projects.invisionapp.com/boards/7B3NU02UC4M)
-[![GitHub license](https://img.shields.io/github/license/DukeLearningInnovation/kits.svg)](https://github.com/DukeLearningInnovation/kits)
+
+[Kits at EDUCUASE 2018](https://docs.google.com/presentation/d/1FPo0xX9Xs2rOJMoA2KAAS_dcv5qB_T8XWwILnDmyq2s/edit?usp=sharing)
 
 ## Scope
 
