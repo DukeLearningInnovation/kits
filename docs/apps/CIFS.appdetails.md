@@ -9,10 +9,6 @@ CIFS is a proven and reliable protocol for managing personal files and directori
 **License**: []()  
 **Availability**: Duke Community  
 
-{{SCREENSHOT BLOCK}}
-
-
-{{PERMISSIONS BLOCK}}
 
 ## Why use CIFS?
 CIFS home directories allow Duke users access to their files from multiple locations.
