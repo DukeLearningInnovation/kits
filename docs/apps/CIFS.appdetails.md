@@ -5,8 +5,10 @@ CIFS is a proven and reliable protocol for managing personal files and directori
 
 **Price**: Free   
 **Support**: [University supported](https://oit.duke.edu/what-we-do/applications/cifs)   
+<!--
 **Accessibility**: []()(Links to app's accessibility statement)    
 **License**: []()  
+-->
 **Availability**: Duke Community  
 
 
