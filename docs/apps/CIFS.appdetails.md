@@ -8,8 +8,7 @@ CIFS is a proven and reliable protocol for managing personal files and directori
 <!--
 **Accessibility**: []()(Links to app's accessibility statement)    
 **License**: []()  
--->
-**Availability**: Duke Community  
+-->**Availability**: Duke Community  
 
 
 ## Why use CIFS?
