@@ -2,7 +2,7 @@
 name: Problem Statement
 about: Translate feature requests or UX research insights into problem statements
 title: ''
-labels: problem statement
+labels: Problem Statement
 assignees: profmikegreene
 
 ---
