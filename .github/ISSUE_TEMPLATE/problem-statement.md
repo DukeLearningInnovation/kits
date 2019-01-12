@@ -7,6 +7,12 @@ assignees: profmikegreene
 
 ---
 
-I am *persona* trying to *verb* but *barrier* because *cause* which makes me feel *emotional reaction*.
+I am PERSONA trying to VERB but BARRIER because CAUSE which makes me feel EMOTIONAL REACTION.
 
 How might we (the Kits project team)
+
+**Questions**
+
+**Assumptions**
+
+**Hypotheses**
