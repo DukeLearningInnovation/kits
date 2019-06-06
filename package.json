@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "NODE_ENV=test npx cucumber-js tests --no-strict"
+  },
+  "dependencies": {
+    "cucumber": "^5.0.2",
+    "dotenv": "^8.0.0",
+    "puppeteer": "^1.17.0"
+  }
+}
