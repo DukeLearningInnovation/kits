@@ -4,19 +4,10 @@
 [![UXPin](https://img.shields.io/badge/mockup-uxpin-006cff.svg)](https://preview.uxpin.com/97f1536f1e1180fb99f4e5e05651cf146eef0747#/pages/85694982/simulate/sitemap)
 [![InvisionApp](https://img.shields.io/badge/art%20style-invisionapp-FF2C5B.svg)](https://projects.invisionapp.com/boards/7B3NU02UC4M)
 
-[Kits at EDUCAUSE 2018](https://docs.google.com/presentation/d/1F-B61LtpRUbOGqrNUufileYMV9PFTpPljEX5rTuxX54/edit?usp=sharing)
 
 ## Scope
 
-Kits is an effort to modernize the learning technology ecosystem around [NGDLE](//ngdle.org) concepts.
-
-The current state of Learning Technologies has focused primarily on meeting faculty's teaching needs through the Learning Management System.
-
-This contradicts our vision of the ideal university IT and academic culture. A culture of technological plurality and choice.
-
-For university IT, relying on any single solution, including the LMS, is a short-sighted strategy that provides suboptimal learning experience as a monolithic system cannot provide the best learning experience for all aspects of all learning communities.
-
-    The best learning happens when appropriate apps are used in conjunction with active learning pedagogies.
+Learning technologies across higher education have traditionally focused on meeting faculty's teaching needs through the Learning Management System (LMS). At Duke University, we see relying on any single solution, including the LMS, as a short-sighted technology strategy. No monolithic system can provide the optimal learning experience for all aspects of all learning communities. We believe learning is maximized when appropriate technologies are used in conjunction with evidence-based pedagogies. The ideal academic technology strategy should support the diversity of disciplinary and pedagogical needs. It should be pluralistic, giving faculty, staff, and students scalable, excellent, and integrated choices. Duke’s Kits project, developed outside the LMS and evolved from a home-grown group management solution, is our latest effort to provide a next generation digital learning environment for the Duke community, and, as an open source project, to the wider world.
 
 ## How Kits Works
 
@@ -32,7 +23,7 @@ We're starting with courses, but the kit concept can be applied to all learning 
 
 ### Project Goals
 
-1. Provide students a unified interface for accessing the apps used by their kits
+1. Provide students a unified interface for accessing the apps used in their kits
 1. Provide faculty a catalogue of learning technologies for use in their kits
 1. Allow faculty to manage membership of and technologies used by their kits
 1. Provide information on learning technology management and policies.
@@ -68,3 +59,9 @@ Project | Github Projects are used to track sprints | [Current projects](https:/
 ## Contributing
 
 We don't have all the answers. We can't build it all by ourselves. Whether you're in or outside of Duke, read [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how you can contribute to this project.
+
+## Historical Docs and Presentations
+
+## Ideas Shaping Kits
+
+## Presentation and Articles about Kits
