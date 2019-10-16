@@ -62,8 +62,8 @@ We don't have all the answers. We can't build it all by ourselves. Whether you'r
 
 ## Historical Docs and Presentations
 * [Duke Center for Instructional Technology LMS Futures Report](https://github.com/DukeLearningInnovation/kits/blob/mast/docs_assets/CIT-LMS-Futures-Report-version-7_4.pdf)
-* [Learn.Duke Discovery Document](https://github.com/DukeLearningInnovation/kits/blob/master/docs/_assets/Learn.Duke-Discovery.pdf)
 * [New Architectural Models for Central Academic Tools and Services](https://events.educause.edu/sites/default/files/library/presentations/E11/SESS074/2011_Duke-Educause_academic_architecture-overview.pdf)
+* [Learn.Duke Discovery Document](https://github.com/DukeLearningInnovation/kits/blob/master/docs/_assets/Learn.Duke-Discovery.pdf)
 
 ## Ideas Shaping Kits
 * [Educause NGDLE Report](https://github.com/DukeLearningInnovation/kits/blob/master/docs/_assets/educause-ngdle.pdf)
