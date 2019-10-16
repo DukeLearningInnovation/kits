@@ -61,12 +61,12 @@ Project | Github Projects are used to track sprints | [Current projects](https:/
 We don't have all the answers. We can't build it all by ourselves. Whether you're in or outside of Duke, read [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how you can contribute to this project.
 
 ## Historical Docs and Presentations
-* [Center for Instructional Technology LMS Futures Report](https://github.com/DukeLearningInnovation/kits/blob/mast/docs_assets/CIT-LMS-Futures-Report-version-7_4.pdf)
-* [Learn.Duke Discover Doc](https://github.com/DukeLearningInnovation/kits/blob/master/docs/_assets/Learn.Duke-Discovery.pdf)
-* [Educause NGDLE Report](https://github.com/DukeLearningInnovation/kits/blob/master/docs/_assets/educause-ngdle.pdf)
+* [Duke Center for Instructional Technology LMS Futures Report](https://github.com/DukeLearningInnovation/kits/blob/mast/docs_assets/CIT-LMS-Futures-Report-version-7_4.pdf)
+* [Learn.Duke Discovery Document](https://github.com/DukeLearningInnovation/kits/blob/master/docs/_assets/Learn.Duke-Discovery.pdf)
 * [New Architectural Models for Central Academic Tools and Services](https://events.educause.edu/sites/default/files/library/presentations/E11/SESS074/2011_Duke-Educause_academic_architecture-overview.pdf)
 
 ## Ideas Shaping Kits
+* [Educause NGDLE Report](https://github.com/DukeLearningInnovation/kits/blob/master/docs/_assets/educause-ngdle.pdf)
 * [The NGDLE: We Are the Architects](https://er.educause.edu/articles/2017/7/the-ngdle-we-are-the-architects)
 * [The Educause NGDLE and an API of Ones Own](https://eliterate.us/the-educause-ngdle-and-an-api-of-ones-own/)
 * [The University API: An Unconference](https://bavatuesdays.com/the-university-api-an-unconference/)
