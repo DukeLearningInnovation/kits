@@ -61,13 +61,12 @@ Project | Github Projects are used to track sprints | [Current projects](https:/
 We don't have all the answers. We can't build it all by ourselves. Whether you're in or outside of Duke, read [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how you can contribute to this project.
 
 ## Historical Docs and Presentations
-*[Center for Instructional Technology LMS Futures Report](https://github.com/DukeLearningInnovation/kits/blob/mast/docs/_assets/CIT-LMS-Futures-Report-version-7_4.pdf)
-*[Learn.Duke Discover Doc](https://github.com/DukeLearningInnovation/kits/blob/master/docs/_assets/Learn.Duke-Discovery.pdf)
-[*Educause NGDLE Report](https://github.com/DukeLearningInnovation/kits/blob/master/docs/_assets/educause-ngdle.pdf)
-*[New Architectural Models for Central Academic Tools and Services](https://events.educause.edu/sites/default/files/library/presentations/E11/SESS074/2011_Duke-Educause_academic_architecture-overview.pdf)
+* [Center for Instructional Technology LMS Futures Report](https://github.com/DukeLearningInnovation/kits/blob/mast/docs_assets/CIT-LMS-Futures-Report-version-7_4.pdf)
+* [Learn.Duke Discover Doc](https://github.com/DukeLearningInnovation/kits/blob/master/docs/_assets/Learn.Duke-Discovery.pdf)
+* [Educause NGDLE Report](https://github.com/DukeLearningInnovation/kits/blob/master/docs/_assets/educause-ngdle.pdf)
+* [New Architectural Models for Central Academic Tools and Services](https://events.educause.edu/sites/default/files/library/presentations/E11/SESS074/2011_Duke-Educause_academic_architecture-overview.pdf)
 
 ## Ideas Shaping Kits
-* [Open Source and the NGDLE](https://er.educause.edu/articles/2017/9/open-source-and-the-ngdle)
 * [The NGDLE: We Are the Architects](https://er.educause.edu/articles/2017/7/the-ngdle-we-are-the-architects)
 * [The Educause NGDLE and an API of Ones Own](https://eliterate.us/the-educause-ngdle-and-an-api-of-ones-own/)
 * [The University API: An Unconference](https://bavatuesdays.com/the-university-api-an-unconference/)
@@ -75,3 +74,7 @@ We don't have all the answers. We can't build it all by ourselves. Whether you'r
 * [Not-yetness](http://redpincushion.us/blog/teaching-and-learning/not-yetness/)
 
 ## Presentation and Articles about Kits
+* [Next Gen Digital Learning Environments](https://events.educause.edu/-/media/files/events/user-uploads-folder/eli18/sess18/eli-apereo-ngdle-panel-conversation.pdf)
+* [Building the Next Generation: Emerging Stories of the NGDLE](https://events.educause.edu/eli/webinars/2018/building-the-next-generation-emerging-stories-of-the-ngdle)
+* [Open Source and the NGDLE](https://er.educause.edu/articles/2017/9/open-source-and-the-ngdle)
+* [Sustainable Innovation + Faculty Choice + Student-Centered Design = NGDLE](https://events.educause.edu/annual-conference/2018/agenda/sustainable-innovation--faculty-choice--studentcentered-design--ngdle)
