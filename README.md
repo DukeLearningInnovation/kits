@@ -31,7 +31,7 @@ We're starting with courses, but the kit concept can be applied to all learning 
 ### Stretch Goals
 
 1. Organize Kits to work with learning experiences from pre-matriculation to alumni learning
-1. Let students know what they should do next for those classes.
+1. Let students know what they should do next for their classes.
 1. Suggest apps packages, or standard sets of app combinations, to help faculty accomplish their learning objectives.
 1. Solicit suggestions for new apps Duke should support, then Duke can research support, automation and provisioning behind the new apps. 
 
