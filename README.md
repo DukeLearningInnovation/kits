@@ -78,3 +78,6 @@ We don't have all the answers. We can't build it all by ourselves. Whether you'r
 * [Building the Next Generation: Emerging Stories of the NGDLE](https://events.educause.edu/eli/webinars/2018/building-the-next-generation-emerging-stories-of-the-ngdle)
 * [Open Source and the NGDLE](https://er.educause.edu/articles/2017/9/open-source-and-the-ngdle)
 * [Sustainable Innovation + Faculty Choice + Student-Centered Design = NGDLE](https://events.educause.edu/annual-conference/2018/agenda/sustainable-innovation--faculty-choice--studentcentered-design--ngdle)
+* [Kits: Building the NGDLE Outside the LMS](https://er.educause.edu/blogs/2019/11/kits-building-the-ngdle-outside-the-lms)
+* [Possible Futures: Open Source and Educational Values](https://www.youtube.com/watch?v=9sfanE9wYaQ)
+* [Steering a Course for the NGDLE: Projects and Prospects](https://events.educause.edu/annual-conference/2019/agenda/steering-a-course-for-the-ngdle-projects-and-prospects)
