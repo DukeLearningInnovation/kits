@@ -80,4 +80,4 @@ We don't have all the answers. We can't build it all by ourselves. Whether you'r
 * [Sustainable Innovation + Faculty Choice + Student-Centered Design = NGDLE](https://events.educause.edu/annual-conference/2018/agenda/sustainable-innovation--faculty-choice--studentcentered-design--ngdle)
 * [Kits: Building the NGDLE Outside the LMS](https://er.educause.edu/blogs/2019/11/kits-building-the-ngdle-outside-the-lms)
 * [Possible Futures: Open Source and Educational Values](https://www.youtube.com/watch?v=9sfanE9wYaQ)
-* [Steering a Course for the NGDLE: Projects and Prospects](https://events.educause.edu/annual-conference/2019/agenda/steering-a-course-for-the-ngdle-projects-and-prospects) - [Duke Kits Slide Deck](https://docs.google.com/presentation/d/1eKtRcH0AiuqtWEydq8rHN-fV6T_PgX_yB20UHELmHq0/edit?usp=sharing)
+* [Steering a Course for the NGDLE: Projects and Prospects](https://events.educause.edu/annual-conference/2019/agenda/steering-a-course-for-the-ngdle-projects-and-prospects) - ([Kits Slide Deck](https://docs.google.com/presentation/d/1eKtRcH0AiuqtWEydq8rHN-fV6T_PgX_yB20UHELmHq0/edit?usp=sharing))
