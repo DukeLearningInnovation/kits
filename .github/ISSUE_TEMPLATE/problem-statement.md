@@ -3,7 +3,7 @@ name: Problem Statement
 about: Translate feature requests or UX research insights into problem statements
 title: ''
 labels: Problem Statement
-assignees: joliet, profmikegreene
+assignees: joliet
 
 ---
 
