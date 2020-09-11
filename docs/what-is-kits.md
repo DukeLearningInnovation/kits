@@ -1,5 +1,6 @@
 ---
 permalink: /
+nav_order: 1
 ---
 ## What is Kits?
 
@@ -33,4 +34,4 @@ The Kits App Store makes it easy to see all the learning apps available, and pro
 
 While some apps in the App Store are also available in Sakai, many apps such as MS Teams, Sites@Duke (WordPress), Box, and Panopto can only be set up and shared automatically with your course roster by using Kits.
 
-Ready to get started using Kits?  [Learn how to create a kit](https://docs.google.com/document/d/1vzkzUBXpAOJzxk4_A-vNPrqRotJ14eBISGV6nvw7Y3U/edit?usp=sharing).
+Ready to get started using Kits?  [Learn how to create a kit](/how-do-i-create-a-kit.md).
