@@ -1,3 +1,7 @@
+---
+nav_order: 2
+---
+
 ## How do I create a kit?
 
 ### Course Kits
@@ -20,4 +24,4 @@ Once saved, your new kit can be found in Kits under the Project category.  If yo
 
 ![image alt text](images/image_6.png)
 
-Next, share your new kit with other project or course members.  [Learn how to add ](https://docs.google.com/document/d/191afjFSG7taeRvPbbw3HsolaJOAhj4y9ezxhXBGsjic/edit?usp=sharing)[people](https://docs.google.com/document/d/191afjFSG7taeRvPbbw3HsolaJOAhj4y9ezxhXBGsjic/edit?usp=sharing)[ to your kit](https://docs.google.com/document/d/191afjFSG7taeRvPbbw3HsolaJOAhj4y9ezxhXBGsjic/edit?usp=sharing).
+Next, share your new kit with other project or course members.  [Learn how to add people to your kit](/how-do-i-add-people-to-my-kit.md).

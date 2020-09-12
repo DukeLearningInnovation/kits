@@ -1,3 +1,7 @@
+---
+nav_order: 5
+---
+
 ## How do I add apps to my kit?
 
 **Click the Add App button** at the bottom of the kit.
@@ -24,4 +28,4 @@ Once your app is ready, **click the icon in your kit to access the app**.
 
 ![image alt text](images/image_17.png)
 
-Need to make a change to your apps?  Learn [how to Edit ](https://docs.google.com/document/d/17oWdGzfP7YvH5hxkzwPbWBhDk4UgiHhG8jVyzTUAUEY/edit?usp=sharing)and [Remove apps](https://docs.google.com/document/d/1b8Uf2AB6PxGecRcGEN12FF3fBbEGEi7rms1tZ4CiGz8/edit?usp=sharing) from your kit.
+Need to make a change to your apps?  Learn [how to Edit ](/how-do-i-edit-apps-in-my-kit.md)and [Remove apps](/how-do-i-remove-apps-from-my-kit.md) from your kit.
