@@ -1,3 +1,7 @@
+---
+nav_order: 3
+---
+
 ## How do I combine kits for my multi-section course?
 
 Instructors who are teaching a course with multiple sections often need to set up a learning app that is shared with all sections.  The **Combine Kits** feature in Kits allows instructors to associate multiple course sections together..  **All learning apps added to the Combined Kit will be automatically shared with all sections in the kit.**
@@ -42,4 +46,4 @@ The kits included in the combined kit will be listed.  Apps may also be added to
 
 ![image alt text](images/image_37.png)
 
-Now that you’ve created a combined kit, [learn how to add apps to your kit](https://docs.google.com/document/d/17-1HWr-IkumdWGgYknzBMmxPpZzjJi4cbPxFwmoYZUU/edit?usp=sharing).
+Now that you’ve created a combined kit, [learn how to add people to your kit](/how-do-i-add-people-to-my-kit.md).

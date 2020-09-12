@@ -1,3 +1,7 @@
+---
+nav_order: 7
+---
+
 ## How do I remove apps in my kit?
 
 To remove an app in your kit, start by **click the menu with three vertical dots **![image alt text](images/image_24.png) in the upper-right corner of your kit.  Then click **Remove App** in the menu.
@@ -16,4 +20,4 @@ The icon for the removed app should no longer display on your kit.  **Click the 
 
 ![image alt text](images/image_28.png)
 
-Ready to share your kit with others? [Learn how to add people to your kit](https://docs.google.com/document/d/191afjFSG7taeRvPbbw3HsolaJOAhj4y9ezxhXBGsjic/edit?usp=sharing).
+Ready to share your kit with others? [Learn how to add people to your kit](/how-do-i-add-people-to-my-kit.md).

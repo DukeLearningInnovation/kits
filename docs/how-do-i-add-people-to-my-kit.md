@@ -1,3 +1,6 @@
+---
+nav_order: 4
+---
 ## How do I add people to my kit?
 
 The process for adding new members to your kit is the same regardless of whether your kit is for an official Duke course or a custom kit for a project or team.
@@ -26,4 +29,4 @@ To **remove a member** from the kit, **click the X icon** under the Remove colum
 
 **_Note:_*** in course kits with course rosters, students officially enrolled in the course cannot be removed.  Course roster data is automatically synced with DukeHub on a daily basis and should remain up-to-date automatically.*
 
-Now that you have shared your kit with other people, add apps to your kit so that you can collaborate.  [Learn how to add apps to your ](https://docs.google.com/document/d/17-1HWr-IkumdWGgYknzBMmxPpZzjJi4cbPxFwmoYZUU/edit?usp=sharing)[kit](https://docs.google.com/document/d/17-1HWr-IkumdWGgYknzBMmxPpZzjJi4cbPxFwmoYZUU/edit?usp=sharing).
+Now that you have shared your kit with other people, add apps to your kit so that you can collaborate.  [Learn how to add apps to your kit](/how-do-i-add-apps-to-my-kit.md).

@@ -1,3 +1,7 @@
+---
+nav_order: 6
+---
+
 ## How do I edit apps in my kit?
 
 To edit an app in your kit, start by **click the menu with three vertical dots **![image alt text](images/image_18.png) in the upper-right corner of your kit.  Then click **Edit App** in the menu.
@@ -20,4 +24,4 @@ Your kit should now show any display name edits to the app on your kit.
 
 ![image alt text](images/image_23.png)
 
-[Learn more about the View as Student feature](https://docs.google.com/document/d/1SfInmvwgTEkQIkQnuj2PoZFVhMChYocN1tnkBcFKSSs/edit?usp=sharing) in Kits.
+[Learn more about the View as Student feature](/how-do-i-view-my-kit-with-the-student-role.md) in Kits.
