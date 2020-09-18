@@ -16,7 +16,7 @@ When you have finished selecting all kits to combine **click the Add Kits button
 
 ![image alt text](images/image_30.png)
 
-After clicking the Add Kits button, you will then see the kits you selected to combine at the top of the screen.  **To remove a kit, click the blue X in the Remove column**.  To add more kits, see the Select Kits option below.  When your combined kit list is complete,** click the Confirm Kits button**.
+After clicking the Add Kits button, you will then see the kits you selected to combine at the top of the screen.  **To remove a kit, click the blue X in the Remove column**.  To add more kits, see the Select Kits option below.  When your combined kit list is complete, **click the Confirm Kits button**.
 
 ![image alt text](images/image_31.png)
 
@@ -30,7 +30,7 @@ You should now see your combined kit under the **Combined Kit category** in Kits
 
 ![image alt text](images/image_34.png)
 
-This stacked view of your combined kit is an instructor view and allows the instructor to add apps to the combined kit to be shared with all course rosters in the combined kit.  When students login to Kits, they see a kit for the lecture section and the lab section that they are enrolled in with all apps added by the instructor.
+This stacked view of your combined kit is an **instructor view** and allows the instructor to add apps to the combined kit to be **shared with all course rosters in the combined kit**.  When students login to Kits, they see a kit for the lecture section and the lab section that they are enrolled in with all apps added by the instructor.
 
 To see all kits in the combined kit, **click the three vertical dots menu** (kebab menu) in the upper right corner of the kit.  Then click **View/Edit Kit** in the menu.
 

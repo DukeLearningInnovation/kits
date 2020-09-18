@@ -6,7 +6,7 @@ nav_order: 1
 
 Kits ([https://kits.duke.edu](https://kits.duke.edu)) gives you one place to go where you can manage all the apps that you use in your course. When faculty login to Kits, they see a card or "kit" for every course for which they are an instructor in DukeHub.
 
-![image alt text](images/image_0.png)
+![Kits](images/image_0.png)
 
 If you have created a Sakai site for your course, you will see an icon for the Sakai app in your kit.  Otherwise, your kit will be empty.
 
@@ -24,13 +24,13 @@ Faculty who use many learning apps to teach their course can streamline the setu
 
 Kits also provides a single place for students to access all the apps used for their courses.
 
-![image alt text](images/image_1.png)
+![kits with apps added](images/image_1.png)
 
 ### Find the Right Learning App
 
 The Kits App Store makes it easy to see all the learning apps available, and provides pedagogical information on each app to make finding the right one for your teaching needs easy.
 
-![image alt text](images/image_2.png)
+![Kits App Store](images/image_2.png)
 
 While some apps in the App Store are also available in Sakai, many apps such as MS Teams, Sites@Duke (WordPress), Box, and Panopto can only be set up and shared automatically with your course roster by using Kits.
 
