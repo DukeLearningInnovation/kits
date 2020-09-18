@@ -10,7 +10,7 @@ nav_order: 5
 
 In the Kits App Store, find the app you would like to set up.  **Click the Add App to Kit button** at the bottom of the app card.
 
-![image alt text](images/image_13.png)
+![Add App option App Store](images/image_13.png)
 
 **Enter a display name** for the app.  The display name is the text that displays under the app icon in the kit.  Next, **select who can view the app** in your kit. When finished, **click the Save & Add to Kit button** or **Save and Continue Setup**.
 
