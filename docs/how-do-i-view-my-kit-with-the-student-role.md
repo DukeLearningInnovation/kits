@@ -6,7 +6,7 @@ nav_order: 8
 
 If you have shared an app in your kit that is only available to instructors and assistants (TAs), you can confirm that these apps are not visible to students by using the **View as Student** feature.
 
-In the kit you wish to view in student mode, **click the menu with three vertical dots**![kit menu icon](images/image_38.png) in the upper-right corner of your kit.  Then click **View as Student** in the menu.
+In the kit you wish to view in student mode, **click the menu with three vertical dots** ![kit menu icon](images/image_38.png) in the upper-right corner of your kit.  Then click **View as Student** in the menu.
 
 ![kit with menu open](images/image_39.png)
 
