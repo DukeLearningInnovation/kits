@@ -12,7 +12,7 @@ When instructors login to Kits, they see a **kit for every course** for which th
 
 ### User-Created Kits
 
-To set up a kit that is not an official Duke course in DukeHub, **click the Create Kit button** in the lower-right hand corner of Kits, then **Create New Kit**. *(Interested in combining existing courses? See [**How to Combine Kits**](/how-do-i-combine-kits-for-my-multi-section-course.md).)*
+To set up a kit that is not an official Duke course in DukeHub, **click the Create Kit button** in the lower-right-hand corner of Kits, then **Create New Kit**. *(Interested in combining existing courses? See [**How to Combine Kits**](/how-do-i-combine-kits-for-my-multi-section-course.md).)*
 
 ![Create kit menu](images/image_4.png)
 
