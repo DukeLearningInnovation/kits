@@ -27,6 +27,6 @@ When you are done adding members to your kit, **click the Done button** to retur
 
 To **remove a member** from the kit, **click the X icon** under the Remove column in the member list.
 
-**_Note:_*** in course kits with course rosters, students officially enrolled in the course cannot be removed.  Course roster data is automatically synced with DukeHub on a daily basis and should remain up-to-date automatically.*
+**_Note:_** *in course kits with course rosters, students officially enrolled in the course cannot be removed.  Course roster data is automatically synced with DukeHub on a daily basis and should remain up-to-date automatically.*
 
 Now that you have shared your kit with other people, add apps to your kit so that you can collaborate.  [Learn how to add apps to your kit](/how-do-i-add-apps-to-my-kit.md).
