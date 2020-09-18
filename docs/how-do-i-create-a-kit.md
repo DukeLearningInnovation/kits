@@ -20,7 +20,7 @@ The New Custom Kit setup page displays.  From the **Category** drop-down menu ch
 
 ![Set up page for kit](images/image_5.png)
 
-Once saved, your new kit can be found in Kits under the Project category.  If you have many kits, you may need to scroll down a little to see the Project category and your new kit.
+Once saved, your new kit can be found in Kits under the Project or Team category.  If you have many kits, you may need to scroll down a little to see the Project category and your new kit.
 
 ![kit after set up](images/image_6.png)
 
