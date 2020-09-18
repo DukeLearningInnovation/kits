@@ -4,7 +4,7 @@ nav_order: 6
 
 ## How do I edit apps in my kit?
 
-To edit an app in your kit, start by **click the menu with three vertical dots** ![image alt text](images/image_18.png) in the upper-right corner of your kit.  Then click **Edit App** in the menu.
+To edit an app in your kit, start by **click the menu with three vertical dots** ![kit menu](images/image_18.png) in the upper-right corner of your kit.  Then click **Edit App** in the menu.
 
 ![image alt text](images/image_19.png)
 
