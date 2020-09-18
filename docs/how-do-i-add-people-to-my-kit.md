@@ -7,9 +7,9 @@ The process for adding new members to your kit is the same regardless of whether
 
 **_Note:_*** Course kits that are official Duke courses are shared with students in the course roster automatically.*
 
-To add members to your kit, **click the menu with three vertical dots **![image alt text](images/image_7.png) in the upper-right corner of your kit and **choose View/Edit Roster**.
+To add members to your kit, **click the menu with three vertical dots **![kit menu](images/image_8.png) in the upper-right corner of your kit and **choose View/Edit Roster**.
 
-![image alt text](images/image_8.png)
+![kit with menu](images/image_7.png)
 
 ## You will enter the View Mode which lists the current members of your kit. **Click on Edit Mode** to add members.
 
