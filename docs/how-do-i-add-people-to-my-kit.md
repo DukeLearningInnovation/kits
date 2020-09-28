@@ -1,7 +1,7 @@
 ---
 nav_order: 4
 ---
-## How do I add people to my kit?
+## How do I add people to my kit?<br>
 
 The process for adding new members to your kit is the same regardless of whether your kit is for an official Duke course or a custom kit for a project or team.
 

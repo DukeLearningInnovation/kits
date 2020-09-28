@@ -2,7 +2,7 @@
 nav_order: 9
 ---
 
-## How do I get help for Kits or learn more?
+## How do I get help for Kits or learn more?<br>
 
 For immediate help or support, contact the [OIT Service Desk](http://www.oit.duke.edu/help/)
 

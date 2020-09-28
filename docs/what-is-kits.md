@@ -2,7 +2,7 @@
 permalink: /
 nav_order: 1
 ---
-## What is Kits?
+## What is Kits?<br>
 
 Kits ([https://kits.duke.edu](https://kits.duke.edu)) gives you one place to go where you can manage all the apps that you use in your course. When faculty login to Kits, they see a card or "kit" for every course for which they are an instructor in DukeHub.
 
