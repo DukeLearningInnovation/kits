@@ -4,7 +4,6 @@ nav_order: 9
 
 ## How do I get help for Kits or learn more?
 
-
 For immediate help or support, contact the [OIT Service Desk](http://www.oit.duke.edu/help/)
 
 Faculty and academic support staff are encouraged to take advantage of the following:
