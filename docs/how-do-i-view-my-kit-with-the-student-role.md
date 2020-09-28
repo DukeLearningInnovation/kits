@@ -2,7 +2,7 @@
 nav_order: 8
 ---
 
-## How do I view my kit with the student role?
+## How do I view my kit with the student role?<br>
 
 If you have shared an app in your kit that is only available to instructors and assistants (TAs), you can confirm that these apps are not visible to students by using the **View as Student** feature.
 
