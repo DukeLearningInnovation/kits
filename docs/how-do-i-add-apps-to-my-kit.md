@@ -2,7 +2,7 @@
 nav_order: 5
 ---
 
-## How do I add apps to my kit?
+## How do I add apps to my kit?<br>
 
 **Click the Add App button** at the bottom of the kit.
 
