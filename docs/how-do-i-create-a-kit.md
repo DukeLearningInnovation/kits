@@ -16,7 +16,7 @@ To set up a kit that is not an official Duke course in DukeHub, **click the Crea
 
 ![Create kit menu](images/image_4.png)
 
-The New Custom Kit setup page displays.  From the **Category** drop-down menu choose a kit type. **Enter a Kit ID** and **provide a descriptive Display Name** for your kit.  When finished, **click the Save Kit button**.
+The New Custom Kit setup page displays.  From the **Category** drop-down menu choose a kit category. In the **Type** drop-down menu choose a kit type. Course kits (used for non-official courses) have the roles of instructor, assistant and student.  Collaboration kits have the roles of owner, editor, and viewer.  **Enter a Kit ID** and **provide a descriptive Display Name** for your kit.  When finished, **click the Save Kit button**.
 
 ![Set up page for kit](images/image_5.png)
 
