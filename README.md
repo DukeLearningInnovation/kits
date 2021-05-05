@@ -19,7 +19,8 @@ This combination of group + apps is called a kit.
 
 We're starting with courses, but the kit concept can be applied to all learning experiences someone might encounter with a university.
 
-![Kits Concept Diagram](docs/_assets/kits-concept-diagram.png)
+![kits-concept-diagram](https://user-images.githubusercontent.com/7387760/117186393-c53aad00-ada8-11eb-8308-8bfae2164d1e.png)
+
 
 ### Project Goals
 
