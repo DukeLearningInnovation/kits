@@ -13,7 +13,7 @@ To request a new feature for Kits or an app to be added to the Kits App Store, f
 <div class="contact-wrapper">
 <div>
 <div class="contact-iframe">
-<p><iframe height="650" scrolling="no" src="https://duke.qualtrics.com/jfe/form/SV_0rjP386Dorg8DFr" width="300"></iframe></p>
+<p><iframe height="500" scrolling="no" src="https://duke.qualtrics.com/jfe/form/SV_0rjP386Dorg8DFr" width="300"></iframe></p>
 </div>
 </div>
 <div>
