@@ -8,13 +8,6 @@ Kits is a strategic partnership between Duke Learning Innovation and the Office 
 
 We’re developing Kits in the open and sharing our progress on [GitHub](https://github.com/DukeLearningInnovation/kits).
 
-To request a new feature for Kits or an app to be added to the Kits App Store, fill out the following request:
+To request a new feature for Kits or an app to be added to the Kits App Store, fill out the form below:
 
-<div>
-  <iframe id="KitsAReqForm"
-    title="Kits App and Feature Request"
-    width="300"
-    height="500"
-    src="https://duke.qualtrics.com/jfe/form/SV_3CL87r0ejwkM0Kh"
-  </iframe>
-</div>
+[New App Request](https://duke.qualtrics.com/jfe/form/SV_3CL87r0ejwkM0Kh)
