@@ -1,5 +1,5 @@
 ---
-nav_order: 9
+nav_order: 10
 ---
 
 ## How do I get help for Kits or learn more?<br>

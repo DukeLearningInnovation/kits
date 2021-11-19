@@ -17,6 +17,8 @@ You will enter the View Mode which lists the current members of your kit. **Clic
 
 In Edit Mode, **type the name of the person** you would like to add to your kit i**n the Name field**.  The system will search for that person at Duke and display a result.  **Select the person** you would like to add in the results and the system will populate the Email field.  From the **Role drop-down menu, select the appropriate role** for the new member then **click the Add button**.
 
+*_Not sure about which role to choose?_* [Learn more about Kits and App roles.](/how-do-i-select-the-right-role-for-kit-members.md)
+
 ![Add New Members page](images/image_10.png)
 
 Repeat this process for every member you would like to add to your kit.  Once added, new members show up in the list of all kit members in the table below.
