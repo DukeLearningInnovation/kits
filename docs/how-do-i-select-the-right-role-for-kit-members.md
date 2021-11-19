@@ -49,6 +49,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 [Zoom](#zoom)
 
 ### Box<br>
+
 |  Course kit role |  Collab kit role |  Box role |
 |---|---|---|
 | Instructor  | Owner  | Co-owner  |
@@ -57,6 +58,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 | Visitor  | Visitor | Viewer  |
 
 ### CIFS<br>
+
 |  Course kit role |  Collab kit role |  CIFS role |
 |---|---|---|
 | Instructor | Owner   | All  |
@@ -65,6 +67,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 | Visitor  | Visitor  | Read/Execute  |
 
 ### Custom Link<br>
+
 |  Course kit role |  Collab kit role |  Custom Link role |
 |---|---|---|
 | Instructor  | Owner   | Instructor  |
@@ -73,22 +76,25 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 | Visitor  | Visitor  | Viewer  |
 
 ### Confluence<br>
+
 |  Course kit role |  Collab kit role |  Confluence role |
 |---|---|---|
-|  Instructor |Owner   | All  |
-| Assistant  |  Editor | All  |
-|  Student | Viewer  |  Edit |
-| Visitor  | Visitor  | Viewer  |
+| Instructor | Owner  | All  |
+| Assistant  | Editor | All  |
+| Student | Viewer |  Edit  |
+| Visitor  | Visitor | Viewer  |
 
 ### Microsoft Teams<br>
+
 |  Course kit role |  Collab kit role |  Teams role |
 |---|---|---|
-|  Instructor |Owner   | Owner  |
-| Assistant  |  Editor | Owner  |
-|  Student | Viewer  |  Member |
+| Instructor  | Owner   | Owner  |
+| Assistant  | Editor | Owner  |
+| Student  | Viewer  |  Member |
 | Visitor  | Visitor  | Member  |
 
 ### Panopto<br>
+
 |  Course kit role |  Collab kit role |  Panopto role |
 |---|---|---|
 | Instructor | Owner   | Creator  |
@@ -97,12 +103,13 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 | Visitor  | Visitor  | Viewer  |
 
 ### Sakai<br>
+
 | Course kit role |  Sakai course site role |
 |---|---|
-|  Instructor | Instructor  |
-| Assistant  |  Teaching Assistant |
+| Instructor  | Instructor  |
+| Assistant  | Teaching Assistant  |
 | Student  | Student  |
-| Visitor  |  Visitor |
+| Visitor  | Visitor  |
 
 |  Collab kit role | Sakai project site role  |
 |---|---|
@@ -112,6 +119,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 | Visitor  | Visitor  |
 
 ### Sites@Duke<br>
+
 |  Course kit role |  Collab kit role |  Sites@Duke role |
 |---|---|---|
 |  Instructor |Owner   | Administrator  |
@@ -120,6 +128,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 | Visitor  | Visitor  | Subscriber  |
 
 ### Sympa<br>
+
 |  Course kit role |  Collab kit role |  Sympa role |
 |---|---|---|
 |  Instructor |Owner   | Owner  |
@@ -128,6 +137,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 | Visitor  | Visitor  | Subscriber  |
 
 ### Virtual Computing Manager<br>
+
 |  Course kit role |  Collab kit role |  VCM role |
 |---|---|---|
 |  Instructor |Owner   | Co-owner  |
@@ -136,6 +146,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 | Visitor  | Visitor  | Viewer  |
 
 ### Warpwire<br>
+
 |  Course kit role |  Collab kit role |  Warpwire role |
 |---|---|---|
 |  Instructor |Owner   | Admin  |
@@ -144,6 +155,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 | Visitor  | Visitor  | Viewer  |
 
 ### Zoom<br>
+
 |  Course kit role |  Collab kit role |  Zoom role |
 |---|---|---|
 |  Instructor |Owner   | Owner  |
