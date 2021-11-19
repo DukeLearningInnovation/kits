@@ -5,15 +5,15 @@ nav_order: 5
 
 There are two types of kits, course and collaboration, and each have their own roles.
 
-Course kits have the roles of Instructor, Assistant, Student, and Visitor.
+**Course kits** have the roles of *Instructor, Assistant, Student, and Visitor.*
 
-Collaboration kits have the roles of Owner, Editor, Viewer, and Visitor.
+**Collaboration kits** have the roles of *Owner, Editor, Viewer, and Visitor.*
 
 **_Note:_** *Course kits that are official Duke courses are shared with students in the course roster automatically. The appropriate roles are given to instructor, assistant, and student roster participants by default.*
 
 Roles in Kits have their own permissions for the Kits application and **may be different than the permissions for roles of the same name in an app you add to your kit**.  Here are the permissions for roles in the Kits application:
 
-### Course kits <br>
+### Course kits<br>
 
 **Instructor:** Instructors in course kits can add, edit, and remove members and apps. They can also delete a course kit that is not associated with an official Duke course.  *Official roster members are managed by DukeHub.*
 
@@ -23,7 +23,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 
 **Visitor:** Vistors in course kits can access apps in a kit.  They cannot see kit members, nor can they add, edit, or remove apps.
 
-### Collaboration kits <br>
+### Collaboration kits<br>
 
 **Owner:** Owners in collaboration kits can add, edit, and remove members and apps. They can also delete the kit.
 
