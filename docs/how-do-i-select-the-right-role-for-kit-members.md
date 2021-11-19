@@ -3,13 +3,13 @@ nav_order: 5
 ---
 ## How do I select the right role for kit members?<br>
 
-There are two types of kits and each have their own roles: course and collaboration.
+There are two types of kits, course and collaboration, and each have their own roles.
 
 Course kits have the roles of Instructor, Assistant, Student, and Visitor.
 
 Collaboration kits have the roles of Owner, Editor, Viewer, and Visitor.
 
-**_Note:_** *Course kits that are official Duke courses are shared with students in the course roster automatically. The appropriate roles are given to instructor and student roster participants by default.*
+**_Note:_** *Course kits that are official Duke courses are shared with students in the course roster automatically. The appropriate roles are given to instructor, assistant, and student roster participants by default.*
 
 Roles in Kits have their own permissions for the Kits application and **may be different than the permissions for roles of the same name in an app you add to your kit**.  Here are the permissions for roles in the Kits application:
 
@@ -42,13 +42,13 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 [Microsoft Teams](#microsoft-teams)
 [Panopto](#panopto)
 [Sakai](#sakai)
-[Sites@Duke](#sites-@-duke)
+[Sites@Duke](#sitesduke)
 [Sympa](#sympa)
 [Virtual Computing Manager](#virtual-computing-manager)
 [Warpwire](#warpwire)
 [Zoom](#zoom)
 
-### Box <br>
+### Box<br>
 |  Course kit role |  Collab kit role |  Box role |
 |---|---|---|
 |  Instructor |Owner   | Co-owner  |
@@ -56,7 +56,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 |  Student | Viewer  |  Viewer |
 | Visitor  | Visitor  | Viewer  |
 
-### CIFS <br>
+### CIFS<br>
 |  Course kit role |  Collab kit role |  CIFS role |
 |---|---|---|
 |  Instructor |Owner   | All  |
@@ -64,7 +64,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 |  Student | Viewer  |  Read/Execute |
 | Visitor  | Visitor  | Read/Execute  |
 
-### Custom Link <br>
+### Custom Link<br>
 |  Course kit role |  Collab kit role |  Custom Link role |
 |---|---|---|
 |  Instructor |Owner   | Instructor  |
