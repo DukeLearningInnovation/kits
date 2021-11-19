@@ -35,18 +35,18 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 
 Apps added to your kit have their own roles and permissions independent of your kit.  Not all roles in all apps are available as a role in your kit.  Here are the mappings between kits roles and apps integrated with Kits.
 
-[* Box](#box)
-[* CIFS](#cifs)
-[* Custom Link](#custom-link)
-[* Confluence](#confluence)
-[* Microsoft Teams](#microsoft-teams)
-[* Panopto](#panopto)
-[* Sakai](#sakai)
-[* Sites@Duke](#sites-@-duke)
-[* Sympa](#sympa)
-[* Virtual Computing Manager](#virtual-computing-manager)
-[* Warpwire](#warpwire)
-[* Zoom](#zoom)
+[Box](#box)
+[CIFS](#cifs)
+[Custom Link](#custom-link)
+[Confluence](#confluence)
+[Microsoft Teams](#microsoft-teams)
+[Panopto](#panopto)
+[Sakai](#sakai)
+[Sites@Duke](#sites-@-duke)
+[Sympa](#sympa)
+[Virtual Computing Manager](#virtual-computing-manager)
+[Warpwire](#warpwire)
+[Zoom](#zoom)
 
 ### Box <br>
 |  Course kit role |  Collab kit role |  Box role |
