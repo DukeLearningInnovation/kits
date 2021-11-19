@@ -33,7 +33,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 
 **Visitor:**  Visitors in collaboration kits can only access kit apps.
 
-**Apps added to your kit have their own roles and permissions independent of your kit.**  Not all roles in all apps are available as a role in your kit.  Here are the **mappings between kits roles and apps** integrated with Kits.
+**Apps added to your kit have their own roles and permissions independent of your kit.**  Not all roles in all apps are available as a role in your kit.  <br> Here are the **mappings between kits roles and apps** integrated with Kits.
 
 [Box](#box)<br>
 [CIFS](#cifs)<br>
