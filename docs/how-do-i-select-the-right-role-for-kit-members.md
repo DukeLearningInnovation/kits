@@ -37,16 +37,16 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 
 [Box](#box)<br>
 [CIFS](#cifs)<br>
-[Custom Link](#custom-link)
-[Confluence](#confluence)
-[Microsoft Teams](#microsoft-teams)
-[Panopto](#panopto)
-[Sakai](#sakai)
-[Sites@Duke](#sitesduke)
-[Sympa](#sympa)
-[Virtual Computing Manager](#virtual-computing-manager)
-[Warpwire](#warpwire)
-[Zoom](#zoom)
+[Custom Link](#custom-link)<br>
+[Confluence](#confluence)<br>
+[Microsoft Teams](#microsoft-teams)<br>
+[Panopto](#panopto)<br>
+[Sakai](#sakai)<br>
+[Sites@Duke](#sitesduke)<br>
+[Sympa](#sympa)<br>
+[Virtual Computing Manager](#virtual-computing-manager)<br>
+[Warpwire](#warpwire)<br>
+[Zoom](#zoom)<br>
 
 ### Box<br>
 |  Course kit role |  Collab kit role |  Box role |
