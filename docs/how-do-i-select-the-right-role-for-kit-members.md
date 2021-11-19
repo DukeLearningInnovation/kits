@@ -140,8 +140,8 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 
 |  Course kit role |  Collab kit role |  VCM role |
 |---|---|---|
-|  Instructor |Owner   | Co-owner  |
-| Assistant  |  Editor | Editor  |
+|  Instructor |Owner   | Owner  |
+| Assistant  |  Editor | Owner  |
 |  Student | Viewer  |  Viewer |
 | Visitor  | Visitor  | Viewer  |
 
