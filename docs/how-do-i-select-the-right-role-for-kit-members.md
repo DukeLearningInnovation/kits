@@ -46,7 +46,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 [Sympa](#sympa)<br>
 [Virtual Computing Manager](#virtual-computing-manager)<br>
 [Warpwire](#warpwire)<br>
-[Zoom](#zoom)<br>
+[Zoom](#zoom)
 
 ### Box<br>
 |  Course kit role |  Collab kit role |  Box role |
