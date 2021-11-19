@@ -51,25 +51,25 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 ### Box<br>
 |  Course kit role |  Collab kit role |  Box role |
 |---|---|---|
-|  Instructor |Owner   | Co-owner  |
-| Assistant  |  Editor | Co-owner  |
-|  Student | Viewer  |  Viewer |
-| Visitor  | Visitor  | Viewer  |
+| Instructor  | Owner  | Co-owner  |
+| Assistant  | Editor  | Co-owner  |
+| Student  | Viewer  | Viewer  |
+| Visitor  | Visitor | Viewer  |
 
 ### CIFS<br>
 |  Course kit role |  Collab kit role |  CIFS role |
 |---|---|---|
-|  Instructor |Owner   | All  |
-| Assistant  |  Editor | All  |
-|  Student | Viewer  |  Read/Execute |
+| Instructor | Owner   | All  |
+| Assistant  | Editor | All  |
+| Student | Viewer  | Read/Execute  |
 | Visitor  | Visitor  | Read/Execute  |
 
 ### Custom Link<br>
 |  Course kit role |  Collab kit role |  Custom Link role |
 |---|---|---|
-|  Instructor |Owner   | Instructor  |
-| Assistant  |  Editor | Assistant  |
-|  Student | Viewer  |  Student |
+| Instructor  | Owner   | Instructor  |
+| Assistant  | Editor  | Assistant  |
+| Student  | Viewer  | Student  |
 | Visitor  | Visitor  | Viewer  |
 
 ### Confluence<br>
@@ -91,9 +91,9 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 ### Panopto<br>
 |  Course kit role |  Collab kit role |  Panopto role |
 |---|---|---|
-|  Instructor |Owner   | Creator  |
-| Assistant  |  Editor | Creator  |
-|  Student | Viewer  |  Viewer |
+| Instructor | Owner   | Creator  |
+| Assistant  | Editor | Creator  |
+| Student | Viewer  | Viewer |
 | Visitor  | Visitor  | Viewer  |
 
 ### Sakai<br>
