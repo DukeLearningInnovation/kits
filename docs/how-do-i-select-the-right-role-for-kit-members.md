@@ -11,7 +11,7 @@ There are two types of kits, course and collaboration, and each have their own r
 
 **_Note:_** *Course kits that are official Duke courses are shared with students in the course roster automatically. The appropriate roles are given to instructor, assistant, and student roster participants by default.*
 
-Roles in Kits have their own permissions for the Kits application and **may be different than the permissions for roles of the same name in an app you add to your kit**.  Here are the permissions for roles in the Kits application:
+Roles in Kits have their own permissions for the Kits application and **may be different than the permissions for roles of the same name in an app you add to your kit**.  <br><br>Here are the permissions for roles in the Kits application:
 
 ### Course kits<br>
 
