@@ -10,4 +10,4 @@ We’re developing Kits in the open and sharing our progress on [GitHub](https:/
 
 To request a new feature for Kits or an app to be added to the Kits App Store, fill out the form below:
 
-[New App Request](https://duke.qualtrics.com/jfe/form/SV_3CL87r0ejwkM0Kh)
+[New Kits App or Feature Request Form](https://duke.qualtrics.com/jfe/form/SV_3CL87r0ejwkM0Kh)
