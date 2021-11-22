@@ -1,5 +1,5 @@
 ---
-nav_order: 9
+nav_order: 10
 ---
 
 ## How do I view my kit with the student role?<br>

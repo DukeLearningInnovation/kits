@@ -1,5 +1,5 @@
 ---
-nav_order: 6
+nav_order: 7
 ---
 
 ## How do I add apps to my kit?<br>
