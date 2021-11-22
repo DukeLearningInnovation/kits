@@ -5,6 +5,12 @@ nav_order: 6
 
 The Kits application **is not** accessible to OneLink users.  If you intend to use Kits as a central point of access for external Duke members, [request a sponsored account](https://oit.duke.edu/what-we-do/applications/sponsored-accounts) for these members instead of relying on OneLink.
 
+Only two applications in the Kits App store are **accessible by OneLink users** - *Sakai and WordPress*.
+
+The following applications **allow sharing by link**: *Box, Confluence (Duke Wiki), Warpwire, and Zoom*.
+
+For **more restrictive sharing** of apps, see the guide below.
+
 ### OneLink Access Details and Alternatives for Apps in Kits
 
 [Box](#box)<br>
