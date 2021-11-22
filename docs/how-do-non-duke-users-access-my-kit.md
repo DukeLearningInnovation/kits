@@ -1,7 +1,9 @@
 ---
 nav_order: 6
 ---
-## How do non-Duke users access my kit?<br>
+## How can non-Duke users access my kit?<br>
+
+Guests accounts for non-Duke users can be set up through [OneLink](https://accounts.oit.duke.edu/onelink/about) or [Sponsored Accounts](https://oit.duke.edu/what-we-do/applications/sponsored-accounts).
 
 The Kits application **is not** accessible to OneLink users.  If you intend to use Kits as a central point of access for external Duke members, [request a sponsored account](https://oit.duke.edu/what-we-do/applications/sponsored-accounts) for these members instead of relying on OneLink.
 
