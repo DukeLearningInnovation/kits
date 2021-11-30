@@ -3,7 +3,7 @@ nav_order: 6
 ---
 ## How can non-Duke users access my kit?<br>
 
-Guests accounts for non-Duke users can be set up through [OneLink](https://accounts.oit.duke.edu/onelink/about) or [Sponsored Accounts](https://oit.duke.edu/what-we-do/applications/sponsored-accounts).
+Guest accounts for non-Duke users can be set up through [OneLink](https://accounts.oit.duke.edu/onelink/about) or [Sponsored Accounts](https://oit.duke.edu/what-we-do/applications/sponsored-accounts).
 
 The Kits application **is not** accessible to OneLink users.  If you intend to use Kits as a central point of access for external Duke members, [request a sponsored account](https://oit.duke.edu/what-we-do/applications/sponsored-accounts) for these members instead of relying on OneLink.
 
@@ -31,10 +31,10 @@ For **more restrictive sharing** of apps, see the guide below.
 ### Box<br>
 
 **OneLink Access?** No<br>
-**Alternative account access:** Ask the external user to [create a Box.com account](https://account.box.com/login) and share your folder with their account once it is created.<br>
+**Alternative account access:** Ask the external user to [create a Box.com account](https://account.box.com/signup/personal?tc=annual) and share your folder with their account once it is created.<br>
 **Alternative OneLink accessible option:** Use a Sakai site and share your files in the Resources tool.<br>
 
-### CIFS<br>
+### Common Internet File System<br> (Duke Internal Storage)
 
 **OneLink Access?** No<br>
 **Alternative account access:** Set up a sponsored account for the external user.<br>
@@ -96,7 +96,7 @@ For **more restrictive sharing** of apps, see the guide below.
 ### Zoom<br>
 
 **OneLink Access?** Not applicable as Zoom allows sharing meetings by link with no login to Duke required, although Zoom account is required.<br>
-**Alternative account access:** Set up a sponsored account for the external user if additional previleges are needed.<br>
+**Alternative account access:** Set up a sponsored account for the external user if additional privileges are needed.<br>
 **Alternative OneLink accessible option:** None.<br>
 
 
