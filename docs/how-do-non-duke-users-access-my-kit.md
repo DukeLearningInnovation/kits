@@ -31,10 +31,10 @@ For **more restrictive sharing** of apps, see the guide below.
 ### Box<br>
 
 **OneLink Access?** No<br>
-**Alternative account access:** Ask the external user to [create a Box.com account](https://account.box.com/signup/personal?tc=annual) and share your folder with their account once it is created.<br>
+**Alternative account access:** Ask the external user to [create a Box.com account](https://account.box.com/signup/personal?tc=annual) and share your folder with their account once it is created.<br> Or share the Box folder via link using the 'people with the link' option.
 **Alternative OneLink accessible option:** Use a Sakai site and share your files in the Resources tool.<br>
 
-### Common Internet File System<br> (Duke Internal Storage)
+### Common Internet File System (Duke Internal Storage)<br>
 
 **OneLink Access?** No<br>
 **Alternative account access:** Set up a sponsored account for the external user.<br>
@@ -89,8 +89,8 @@ For **more restrictive sharing** of apps, see the guide below.
 
 ### Warpwire<br>
 
-**OneLink Access?** Not applicable as Warpwire allows sharing videos by link with no login required.<br>
-**Alternative account access:** Set up a sponsored account for the external user if the external user needs additional access.<br>
+**OneLink Access?** Not applicable as Warpwire allows sharing videos by link with no login required (use the 'share with everyone on the web' option).<br>
+**Alternative account access:** Set up a sponsored account for the external user if the external user needs additional access such as uploading media.<br>
 **Alternative OneLink accessible option:** None. Consider using an external tool such as YouTube.<br>
 
 ### Zoom<br>
