@@ -36,7 +36,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 **Apps added to your kit have their own roles and permissions independent of your kit.**  Not all roles in all apps are available as a role in your kit.  <br><br> Here are the **mappings between kits roles and apps** integrated with Kits.
 
 [Box](#box)<br>
-[CIFS](#cifs)<br>
+[CIFS (Common Internet File System)](#cifs)<br>
 [Custom Link](#custom-link)<br>
 [Confluence](#confluence)<br>
 [Microsoft Teams](#microsoft-teams)<br>
@@ -57,7 +57,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 | Student  | Viewer  | Viewer  |
 | Visitor  | Visitor | Viewer  |
 
-### CIFS<br>
+### CIFS (Common Internet File System)<br>
 
 |  Course kit role |  Collab kit role |  CIFS role |
 |---|---|---|
