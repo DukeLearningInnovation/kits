@@ -31,7 +31,7 @@ For **more restrictive sharing** of apps, see the guide below.
 ### Box<br>
 
 **OneLink Access?** No<br>
-**Alternative account access:** Ask the external user to [create a Box.com account](https://account.box.com/signup/personal?tc=annual) and share your folder with their account once it is created.<br> Or share the Box folder via link using the 'people with the link' option.
+**Alternative account access:** Ask the external user to [create a Box.com account](https://account.box.com/signup/personal?tc=annual) and share your folder with their account once it is created.<br> Or share the Box folder via link using the 'people with the link' option.<br>
 **Alternative OneLink accessible option:** Use a Sakai site and share your files in the Resources tool.<br>
 
 ### Common Internet File System (Duke Internal Storage)<br>
