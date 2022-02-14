@@ -41,6 +41,7 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 [CIFS (Common Internet File System)](#cifs)<br>
 [Custom Link](#custom-link)<br>
 [Confluence](#confluence)<br>
+[GitLab](#gitlab)<br>
 [Microsoft Teams](#microsoft-teams)<br>
 [Panopto](#panopto)<br>
 [Sakai](#sakai)<br>
@@ -85,6 +86,17 @@ Roles in Kits have their own permissions for the Kits application and **may be d
 | Assistant  | Editor | All  |
 | Student | Viewer |  Edit  |
 | Visitor  | Visitor | Viewer  |
+
+### GitLab<br>
+
+|  Course kit role |  Collab kit role |  GitLab role |
+|---|---|---|
+| Instructor  | Owner   | Owner  |
+| Assistant  | Editor | Maintainer*  |
+| Student  | Viewer  |  Developer* |
+| Visitor  | Visitor  | Guest  |
+
+* These role mappings can be modified during app setup.
 
 ### Microsoft Teams<br>
 
