@@ -56,7 +56,7 @@ For **more restrictive sharing** of apps, see the guide below.
 ### Microsoft Teams<br>
 
 **OneLink Access?** No<br>
-**Alternative account access:** Set up a sponsored account for the external user.<br>
+**Alternative account access:** External users can be invited through Teams to join the team.  Part of this process includes the user setting up a Microsoft account if they do not already have one.  See details in [this OIT document](https://duke.service-now.com/nav_to.do?uri=%2Fkb_view.do%3Fsysparm_article%3DKB0035213).<br>
 **Alternative OneLink accessible option:** Use a Sakai site and use the Forums, Chat, Commons, and/or Conversations tool.<br>
 
 ### Panopto<br>
