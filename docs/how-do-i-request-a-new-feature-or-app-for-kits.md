@@ -1,6 +1,7 @@
 ---
 nav_order: 12
 nav_exclude: true
+search_exclude: true
 ---
 
 ## How do I request a new feature or app for Kits?<br>
